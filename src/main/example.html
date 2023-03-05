@@ -1,0 +1,444 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script>function neighbourhoodHighlight(params) {
+  // console.log("in nieghbourhoodhighlight");
+  allNodes = nodes.get({ returnType: "Object" });
+  // originalNodes = JSON.parse(JSON.stringify(allNodes));
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    highlightActive = true;
+    var i, j;
+    var selectedNode = params.nodes[0];
+    var degrees = 2;
+
+    // mark all nodes as hard to read.
+    for (let nodeId in allNodes) {
+      // nodeColors[nodeId] = allNodes[nodeId].color;
+      allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+      if (allNodes[nodeId].hiddenLabel === undefined) {
+        allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+    var connectedNodes = network.getConnectedNodes(selectedNode);
+    var allConnectedNodes = [];
+
+    // get the second degree nodes
+    for (i = 1; i < degrees; i++) {
+      for (j = 0; j < connectedNodes.length; j++) {
+        allConnectedNodes = allConnectedNodes.concat(
+          network.getConnectedNodes(connectedNodes[j])
+        );
+      }
+    }
+
+    // all second degree nodes get a different color and their label back
+    for (i = 0; i < allConnectedNodes.length; i++) {
+      // allNodes[allConnectedNodes[i]].color = "pink";
+      allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
+      if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[allConnectedNodes[i]].label =
+          allNodes[allConnectedNodes[i]].hiddenLabel;
+        allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // all first degree nodes get their own color and their label back
+    for (i = 0; i < connectedNodes.length; i++) {
+      // allNodes[connectedNodes[i]].color = undefined;
+      allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
+      if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[connectedNodes[i]].label =
+          allNodes[connectedNodes[i]].hiddenLabel;
+        allNodes[connectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // the main node gets its own color and its label back.
+    // allNodes[selectedNode].color = undefined;
+    allNodes[selectedNode].color = nodeColors[selectedNode];
+    if (allNodes[selectedNode].hiddenLabel !== undefined) {
+      allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
+      allNodes[selectedNode].hiddenLabel = undefined;
+    }
+  } else if (highlightActive === true) {
+    // console.log("highlightActive was true");
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      // allNodes[nodeId].color = "purple";
+      allNodes[nodeId].color = nodeColors[nodeId];
+      // delete allNodes[nodeId].color;
+      if (allNodes[nodeId].hiddenLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
+        allNodes[nodeId].hiddenLabel = undefined;
+      }
+    }
+    highlightActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    // console.log("Nothing was selected");
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        // allNodes[nodeId].color = {};
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function filterHighlight(params) {
+  allNodes = nodes.get({ returnType: "Object" });
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    filterActive = true;
+    let selectedNodes = params.nodes;
+
+    // hiding all nodes and saving the label
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = true;
+      if (allNodes[nodeId].savedLabel === undefined) {
+        allNodes[nodeId].savedLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+
+    for (let i=0; i < selectedNodes.length; i++) {
+      allNodes[selectedNodes[i]].hidden = false;
+      if (allNodes[selectedNodes[i]].savedLabel !== undefined) {
+        allNodes[selectedNodes[i]].label = allNodes[selectedNodes[i]].savedLabel;
+        allNodes[selectedNodes[i]].savedLabel = undefined;
+      }
+    }
+
+  } else if (filterActive === true) {
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = false;
+      if (allNodes[nodeId].savedLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].savedLabel;
+        allNodes[nodeId].savedLabel = undefined;
+      }
+    }
+    filterActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function selectNode(nodes) {
+  network.selectNodes(nodes);
+  neighbourhoodHighlight({ nodes: nodes });
+  return nodes;
+}
+
+function selectNodes(nodes) {
+  network.selectNodes(nodes);
+  filterHighlight({nodes: nodes});
+  return nodes;
+}
+
+function highlightFilter(filter) {
+  let selectedNodes = []
+  let selectedProp = filter['property']
+  if (filter['item'] === 'node') {
+    let allNodes = nodes.get({ returnType: "Object" });
+    for (let nodeId in allNodes) {
+      if (allNodes[nodeId][selectedProp] && filter['value'].includes((allNodes[nodeId][selectedProp]).toString())) {
+        selectedNodes.push(nodeId)
+      }
+    }
+  }
+  else if (filter['item'] === 'edge'){
+    let allEdges = edges.get({returnType: 'object'});
+    // check if the selected property exists for selected edge and select the nodes connected to the edge
+    for (let edge in allEdges) {
+      if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
+        selectedNodes.push(allEdges[edge]['from'])
+        selectedNodes.push(allEdges[edge]['to'])
+      }
+    }
+  }
+  selectNodes(selectedNodes)
+}</script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+            
+            
+            
+            
+            
+
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 600px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "", "label": "", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Human Rights", "label": "Human Rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "individual  rights", "label": "individual  rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "civil  Union", "label": "civil  Union", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "judicial  decisions", "label": "judicial  decisions", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Council", "label": "Council", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "criminal  proceedings", "label": "criminal  proceedings", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "criminal  matters", "label": "criminal  matters", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Member States", "label": "Member States", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Human case Rights", "label": "Human case Rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "such  proceedings", "label": "such  proceedings", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "criminal  offence", "label": "criminal  offence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Directive", "label": "Directive", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "OJ L", "label": "OJ L", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "legal  persons", "label": "legal  persons", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Union  action", "label": "Union  action", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "accused  person", "label": "accused  person", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "inculpatory  evidence", "label": "inculpatory  evidence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "self incrimination", "label": "self incrimination", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "innocence", "label": "innocence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "fair  trial", "label": "fair  trial", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "democratic  society", "label": "democratic  society", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "trial", "label": "trial", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "non-", "label": "non-", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Such  writing", "label": "Such  writing", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "regard", "label": "regard", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "protection", "label": "protection", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "procedural  safeguards", "label": "procedural  safeguards", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Union  law", "label": "Union  law", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "rights", "label": "rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "down  Directive", "label": "down  Directive", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "defence", "label": "defence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "out  Article", "label": "out  Article", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "THIS", "label": "THIS", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "guilty  law", "label": "guilty  law", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "physical  restraint", "label": "physical  restraint", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "6  proof", "label": "6  proof", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "1", "label": "1", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "down Member States", "label": "down Member States", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "European Union", "label": "European Union", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Strasbourg", "label": "Strasbourg", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "M. SCHULZ", "label": "M. SCHULZ", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Union", "label": "Union", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "justice", "label": "justice", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "L", "label": "L", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "that", "label": "that", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "account", "label": "account", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "immunity", "label": "immunity", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "persons", "label": "persons", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "aware  trial", "label": "aware  trial", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "national  law", "label": "national  law", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "procedure", "label": "procedure", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "person", "label": "person", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "decision", "label": "decision", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "proceedings", "label": "proceedings", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "exercise", "label": "exercise", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "which", "label": "which", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "principle", "label": "principle", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "DNA testing", "label": "DNA testing", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Union law", "label": "Union law", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "suspicion", "label": "suspicion", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "2  person", "label": "2  person", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "new  evidence", "label": "new  evidence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "ICCPR  that", "label": "ICCPR  that", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "other Member States", "label": "other Member States", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "who", "label": "who", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "vulnerable  measure", "label": "vulnerable  measure", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "State", "label": "State", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "European Roadmap it", "label": "European Roadmap it", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "citizens", "label": "citizens", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "exhaustive  character", "label": "exhaustive  character", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "better  cooperation", "label": "better  cooperation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "purpose", "label": "purpose", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "she", "label": "she", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "he", "label": "he", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "law", "label": "law", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "effective  rights", "label": "effective  rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "they", "label": "they", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "natural  persons", "label": "natural  persons", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "disabilities", "label": "disabilities", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "criminal  that", "label": "criminal  that", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Article", "label": "Article", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "official", "label": "official", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "This", "label": "This", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "press", "label": "press", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "accordance", "label": "accordance", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "long suspect person", "label": "long suspect person", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "benefit", "label": "benefit", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "elements", "label": "elements", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "help", "label": "help", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "public order disturbance", "label": "public order disturbance", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Member", "label": "Member", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "media", "label": "media", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "use", "label": "use", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "such  witnesses", "label": "such  witnesses", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "competent  authorities", "label": "competent  authorities", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "such  measures", "label": "such  measures", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "witness", "label": "witness", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "burden", "label": "burden", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "suspect person", "label": "suspect person", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "means", "label": "means", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "where  rights", "label": "where  rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "it", "label": "it", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "relevant Directive provisions", "label": "relevant Directive provisions", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "suspect", "label": "suspect", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "the", "label": "the", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "suspects", "label": "suspects", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "where  appropriate", "label": "where  appropriate", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "her", "label": "her", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "when  they", "label": "when  they", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "legal  remedy", "label": "legal  remedy", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "exclude", "label": "exclude", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "only  one", "label": "only  one", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "hearing", "label": "hearing", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "written  which", "label": "written  which", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "themselves", "label": "themselves", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "fair  rights", "label": "fair  rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "statement", "label": "statement", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "evidence", "label": "evidence", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "level", "label": "level", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Human  Rights", "label": "Human  Rights", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "what", "label": "what", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "objectives", "label": "objectives", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "to  Article", "label": "to  Article", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "subject  application", "label": "subject  application", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "certain  aspects", "label": "certain  aspects", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "appropriate  measures", "label": "appropriate  measures", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "particular  Article", "label": "particular  Article", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "obligation", "label": "obligation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "public  interest", "label": "public  interest", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "right  incriminate", "label": "right  incriminate", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Member  States", "label": "Member  States", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "physical  that", "label": "physical  that", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "third  persons", "label": "third  persons", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "accused", "label": "accused", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "prosecution", "label": "prosecution", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "accused  persons", "label": "accused  persons", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "3", "label": "3", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "judicial  authorities", "label": "judicial  authorities", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "concerned  that", "label": "concerned  that", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "CHAPTER", "label": "CHAPTER", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "8  trial", "label": "8  trial", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "right", "label": "right", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Commission", "label": "Commission", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "implementation", "label": "implementation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Member which", "label": "Member which", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "They", "label": "They", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "16 Addressees Directive", "label": "16 Addressees Directive", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Treaties", "label": "Treaties", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"edge": null, "from": "", "to": "", "width": 1}, {"edge": "be", "from": "", "to": "Human Rights", "width": 1}, {"edge": "facilitate", "from": "", "to": "individual  rights", "width": 1}, {"edge": null, "from": "", "to": "civil  Union", "width": 1}, {"edge": null, "from": "", "to": "judicial  decisions", "width": 1}, {"edge": "Position", "from": "", "to": "Council", "width": 1}, {"edge": null, "from": "", "to": "criminal  proceedings", "width": 1}, {"edge": "accused", "from": "", "to": "criminal  matters", "width": 1}, {"edge": null, "from": "", "to": "Member States", "width": 1}, {"edge": "apply", "from": "", "to": "Human case Rights", "width": 1}, {"edge": "lead", "from": "", "to": "such  proceedings", "width": 1}, {"edge": "apply", "from": "", "to": "criminal  offence", "width": 1}, {"edge": "become", "from": "", "to": "Directive", "width": 1}, {"edge": null, "from": "", "to": "OJ L", "width": 1}, {"edge": null, "from": "", "to": "legal  persons", "width": 1}, {"edge": "ensured", "from": "", "to": "Union  action", "width": 1}, {"edge": "accused", "from": "", "to": "accused  person", "width": 1}, {"edge": "charged", "from": "", "to": "inculpatory  evidence", "width": 1}, {"edge": null, "from": "", "to": "self incrimination", "width": 1}, {"edge": null, "from": "", "to": "innocence", "width": 1}, {"edge": "remain", "from": "", "to": "fair  trial", "width": 1}, {"edge": "is", "from": "", "to": "democratic  society", "width": 1}, {"edge": null, "from": "", "to": "trial", "width": 1}, {"edge": "appear", "from": "", "to": "non-", "width": 1}, {"edge": "provided", "from": "", "to": "Such  writing", "width": 1}, {"edge": null, "from": "", "to": "regard", "width": 1}, {"edge": "are", "from": "", "to": "protection", "width": 1}, {"edge": "established", "from": "", "to": "procedural  safeguards", "width": 1}, {"edge": "requires", "from": "", "to": "Union  law", "width": 1}, {"edge": "remain", "from": "", "to": "rights", "width": 1}, {"edge": "send", "from": "", "to": "down  Directive", "width": 1}, {"edge": null, "from": "", "to": "defence", "width": 1}, {"edge": null, "from": "", "to": "out  Article", "width": 1}, {"edge": "ADOPTED", "from": "", "to": "THIS", "width": 1}, {"edge": "accused", "from": "", "to": "guilty  law", "width": 1}, {"edge": null, "from": "", "to": "physical  restraint", "width": 1}, {"edge": null, "from": "", "to": "6  proof", "width": 1}, {"edge": null, "from": "", "to": "1", "width": 1}, {"edge": "laid", "from": "", "to": "down Member States", "width": 1}, {"edge": "enter", "from": "", "to": "European Union", "width": 1}, {"edge": "Done at", "from": "", "to": "Strasbourg", "width": 1}, {"edge": null, "from": "", "to": "M. SCHULZ", "width": 1}, {"edge": null, "from": "Union", "to": "justice", "width": 1}, {"edge": null, "from": "L", "to": "that", "width": 1}, {"edge": null, "from": "L", "to": "account", "width": 1}, {"edge": null, "from": "that", "to": "defence", "width": 1}, {"edge": "understood", "from": "that", "to": "immunity", "width": 1}, {"edge": "take", "from": "that", "to": "guilty  law", "width": 1}, {"edge": null, "from": "that", "to": "persons", "width": 1}, {"edge": "remain", "from": "that", "to": "criminal  offence", "width": 1}, {"edge": "understood", "from": "that", "to": "aware  trial", "width": 1}, {"edge": "provided", "from": "that", "to": "national  law", "width": 1}, {"edge": null, "from": "that", "to": "procedure", "width": 1}, {"edge": "refer", "from": "that", "to": "person", "width": 1}, {"edge": "provide", "from": "that", "to": "decision", "width": 1}, {"edge": null, "from": "that", "to": "proceedings", "width": 1}, {"edge": "ensure", "from": "that", "to": "exercise", "width": 1}, {"edge": "is dependent", "from": "which", "to": "principle", "width": 1}, {"edge": null, "from": "which", "to": "person", "width": 1}, {"edge": null, "from": "which", "to": "account", "width": 1}, {"edge": null, "from": "which", "to": "self incrimination", "width": 1}, {"edge": null, "from": "which", "to": "DNA testing", "width": 1}, {"edge": null, "from": "which", "to": "proceedings", "width": 1}, {"edge": "had", "from": "which", "to": "Union law", "width": 1}, {"edge": null, "from": "which", "to": "suspicion", "width": 1}, {"edge": "evidence", "from": "which", "to": "persons", "width": 1}, {"edge": null, "from": "which", "to": "2  person", "width": 1}, {"edge": null, "from": "which", "to": "new  evidence", "width": 1}, {"edge": "communicate", "from": "which", "to": "Directive", "width": 1}, {"edge": "are", "from": "ICCPR  that", "to": "other Member States", "width": 1}, {"edge": null, "from": "who", "to": "vulnerable  measure", "width": 1}, {"edge": "apply", "from": "who", "to": "criminal  proceedings", "width": 1}, {"edge": "represent", "from": "who", "to": "accused  person", "width": 1}, {"edge": "provide", "from": "who", "to": "State", "width": 1}, {"edge": null, "from": "European Roadmap it", "to": "citizens", "width": 1}, {"edge": "accused", "from": "exhaustive  character", "to": "better  cooperation", "width": 1}, {"edge": null, "from": "purpose", "to": "trial", "width": 1}, {"edge": null, "from": "trial", "to": "Union", "width": 1}, {"edge": null, "from": "she", "to": "he", "width": 1}, {"edge": "understood", "from": "she", "to": "trial", "width": 1}, {"edge": "is guilty", "from": "he", "to": "law", "width": 1}, {"edge": "accused", "from": "Directive", "to": "effective  rights", "width": 1}, {"edge": "recognised", "from": "they", "to": "natural  persons", "width": 1}, {"edge": "are", "from": "they", "to": "national  law", "width": 1}, {"edge": "understood", "from": "they", "to": "disabilities", "width": 1}, {"edge": "accused", "from": "they", "to": "criminal  that", "width": 1}, {"edge": "considered", "from": "they", "to": "criminal  offence", "width": 1}, {"edge": null, "from": "they", "to": "Article", "width": 1}, {"edge": "adopt", "from": "they", "to": "official", "width": 1}, {"edge": null, "from": "This", "to": "legal  persons", "width": 1}, {"edge": null, "from": "This", "to": "press", "width": 1}, {"edge": null, "from": "This", "to": "accordance", "width": 1}, {"edge": "violated", "from": "long suspect person", "to": "guilty  law", "width": 1}, {"edge": null, "from": "person", "to": "", "width": 1}, {"edge": "committed", "from": "person", "to": "criminal  offence", "width": 1}, {"edge": null, "from": "person", "to": "benefit", "width": 1}, {"edge": "accused", "from": "decision", "to": "elements", "width": 1}, {"edge": "asked", "from": "help", "to": "public order disturbance", "width": 1}, {"edge": "inform", "from": "Member", "to": "media", "width": 1}, {"edge": "abstain", "from": "use", "to": "such  witnesses", "width": 1}, {"edge": null, "from": "competent  authorities", "to": "such  measures", "width": 1}, {"edge": "remain", "from": "competent  authorities", "to": "persons", "width": 1}, {"edge": "escorted", "from": "accused  person", "to": "witness", "width": 1}, {"edge": "infringed", "from": "burden", "to": "suspect person", "width": 1}, {"edge": "confined", "from": "means", "to": "defence", "width": 1}, {"edge": "used", "from": "where  rights", "to": "defence", "width": 1}, {"edge": null, "from": "it", "to": "relevant Directive provisions", "width": 1}, {"edge": "consider", "from": "it", "to": "Directive", "width": 1}, {"edge": "consider", "from": "it", "to": "accordance", "width": 1}, {"edge": "accused", "from": "it", "to": "decision", "width": 1}, {"edge": "remain", "from": "criminal  that", "to": "suspect", "width": 1}, {"edge": "violated", "from": "the", "to": "account", "width": 1}, {"edge": null, "from": "rights", "to": "defence", "width": 1}, {"edge": "Without", "from": "rights", "to": "proceedings", "width": 1}, {"edge": "be able", "from": "suspects", "to": "persons", "width": 1}, {"edge": "provided", "from": "where  appropriate", "to": "her", "width": 1}, {"edge": "ensure", "from": "when  they", "to": "legal  remedy", "width": 1}, {"edge": "allowed", "from": "exclude", "to": "criminal  proceedings", "width": 1}, {"edge": "held", "from": "only  one", "to": "trial", "width": 1}, {"edge": "is", "from": "hearing", "to": "written  which", "width": 1}, {"edge": "occurred", "from": "themselves", "to": "fair  rights", "width": 1}, {"edge": "made", "from": "statement", "to": "evidence", "width": 1}, {"edge": null, "from": "level", "to": "Human  Rights", "width": 1}, {"edge": "go beyond", "from": "what", "to": "objectives", "width": 1}, {"edge": "annexed", "from": "to  Article", "to": "subject  application", "width": 1}, {"edge": "be present", "from": "certain  aspects", "to": "criminal  proceedings", "width": 1}, {"edge": "are", "from": "appropriate  measures", "to": "particular  Article", "width": 1}, {"edge": "accused", "from": "obligation", "to": "public  interest", "width": 1}, {"edge": "accused", "from": "Article", "to": "persons", "width": 1}, {"edge": "remain silent", "from": "Article", "to": "right  incriminate", "width": 1}, {"edge": "send", "from": "Article", "to": "down  Directive", "width": 1}, {"edge": "take", "from": "Member  States", "to": "appropriate  measures", "width": 1}, {"edge": "accused", "from": "physical  that", "to": "third  persons", "width": 1}, {"edge": "is", "from": "accused", "to": "prosecution", "width": 1}, {"edge": "ensure", "from": "accused  persons", "to": "themselves", "width": 1}, {"edge": "ensure", "from": "accused  persons", "to": "trial", "width": 1}, {"edge": null, "from": "exercise", "to": "3", "width": 1}, {"edge": "allow", "from": "judicial  authorities", "to": "persons", "width": 1}, {"edge": "take", "from": "concerned  that", "to": "fair  trial", "width": 1}, {"edge": "be present", "from": "CHAPTER", "to": "8  trial", "width": 1}, {"edge": null, "from": "right", "to": "fair  trial", "width": 1}, {"edge": null, "from": "Commission", "to": "implementation", "width": 1}, {"edge": "ensured", "from": "Member which", "to": "protection", "width": 1}, {"edge": null, "from": "They", "to": "Commission", "width": 1}, {"edge": "addressed to", "from": "16 Addressees Directive", "to": "Treaties", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
