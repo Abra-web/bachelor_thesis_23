@@ -1,0 +1,756 @@
+11.3.2016
+
+DE
+
+Amtsblatt der Europäischen Union
+
+L 65/1
+
+I
+(Gesetzgebungsakte)
+
+RICHTLINIEN
+RICHTLINIE (EU) 2016/343 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 9. März 2016
+über die Stärkung bestimmter Aspekte der Unschuldsvermutung und des Rechts auf Anwesenheit
+in der Verhandlung in Strafverfahren
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 82 Absatz 2
+Buchstabe b,
+auf Vorschlag der Europäischen Kommission,
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses (1),
+nach Anhörung des Ausschusses der Regionen,
+gemäß dem ordentlichen Gesetzgebungsverfahren (2),
+in Erwägung nachstehender Gründe:
+(1)
+
+Die Unschuldsvermutung und das Recht auf ein faires Verfahren sind in den Artikeln 47 und 48 der Charta der
+Grundrechte der Europäischen Union (im Folgenden „Charta“), in Artikel 6 der Europäischen Konvention zum
+Schutz der Menschenrechte und Grundfreiheiten (EMRK), in Artikel 14 des Internationalen Pakts über bürgerliche
+und politische Rechte (IPbpR) und in Artikel 11 der Allgemeinen Menschenrechtserklärung verankert.
+
+(2)
+
+Die Union hat sich die Erhaltung und Weiterentwicklung eines Raums der Freiheit, der Sicherheit und des Rechts
+zum Ziel gesetzt. Aus den Schlussfolgerungen des Vorsitzes des Europäischen Rates vom 15. und 16. Oktober
+1999 in Tampere, insbesondere aus deren Nummer 33, geht hervor, dass eine verbesserte gegenseitige
+Anerkennung von Urteilen und anderen gerichtlichen Entscheidungen und die notwendige Annäherung der
+Rechtsvorschriften die Zusammenarbeit zwischen den zuständigen Behörden verbessern und den Schutz der
+Rechte des Einzelnen durch die Justiz erleichtern würden. Der Grundsatz der gegenseitigen Anerkennung sollte
+daher zum Eckstein der justiziellen Zusammenarbeit in Zivil- und Strafsachen innerhalb der Union werden.
+
+(3)
+
+Gemäß dem Vertrag über die Arbeitsweise der Europäischen Union (AEUV) beruht die justizielle Zusammenarbeit
+in Strafsachen in der Union auf dem Grundsatz der gegenseitigen Anerkennung gerichtlicher Urteile und anderer
+gerichtlicher Entscheidungen.
+
+(1) ABl. C 226 vom 16.7.2014, S. 63.
+(2) Standpunkt des Europäischen Parlaments vom 20. Januar 2016 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom
+12. Februar 2016.
+
+L 65/2
+
+DE
+
+Amtsblatt der Europäischen Union
+
+11.3.2016
+
+(4)
+
+Die Umsetzung dieses Grundsatzes beruht auf dem Grundgedanken, dass die Mitgliedstaaten gegenseitiges
+Vertrauen in ihre jeweilige Strafrechtspflege haben. Das Ausmaß des Grundsatzes der gegenseitigen Anerkennung
+hängt von einer Reihe von Parametern ab; dazu gehören Mechanismen für den Schutz der Rechte von
+Verdächtigen und von beschuldigten Personen sowie gemeinsame Mindeststandards, die erforderlich sind, um die
+Anwendung dieses Grundsatzes zu erleichtern.
+
+(5)
+
+Zwar sind die Mitgliedstaaten Vertragsparteien der EMRK und des IPbpR, doch hat die Erfahrung gezeigt, dass
+dies allein nicht immer ein hinreichendes Maß an Vertrauen in die Strafrechtspflege anderer Mitgliedstaaten
+schafft.
+
+(6)
+
+Am 30. November 2009 hat der Rat eine Entschließung über einen Fahrplan zur Stärkung der Verfahrensrechte
+von Verdächtigen oder Beschuldigten in Strafverfahren (1) (im Folgenden „Fahrplan“) angenommen. In dem
+Fahrplan, der eine schrittweise Herangehensweise vorsieht, wird dazu aufgerufen, Maßnahmen zu ergreifen, die
+das Recht auf Übersetzungen und Dolmetschleistungen (Maßnahme A), das Recht auf Belehrung über die Rechte
+und Unterrichtung über die Beschuldigung (Maßnahme B), das Recht auf Rechtsbeistand und Prozesskostenhilfe
+(Maßnahme C), das Recht auf Kommunikation mit Angehörigen, Arbeitgebern und Konsularbehörden
+(Maßnahme D) und besondere Garantien für schutzbedürftige Verdächtige oder Beschuldigte (Maßnahme E)
+betreffen.
+
+(7)
+
+Am 11. Dezember 2009 hat der Europäische Rat den Fahrplan begrüßt und ihn zum Bestandteil des Stockholmer
+Programms — Ein offenes und sicheres Europa im Dienste und zum Schutz der Bürger (2) gemacht
+(Nummer 2.4). Der Europäische Rat betonte, dass der Fahrplan nicht abschließend sein soll, und ersuchte die
+Kommission, weitere Elemente von Mindestverfahrensrechten für Verdächtige und beschuldigte Personen zu
+prüfen und zu bewerten, ob andere Themen, beispielsweise die Unschuldsvermutung, angegangen werden
+müssen, um eine bessere Zusammenarbeit auf diesem Gebiet zu fördern.
+
+(8)
+
+Bislang wurden drei Maßnahmen betreffend Verfahrensrechte in Strafverfahren gemäß dem Fahrplan
+angenommen, und zwar die Richtlinien 2010/64/EU (3), 2012/13/EU (4) und 2013/48/EU (5) des Europäischen
+Parlaments und des Rates.
+
+(9)
+
+Mit dieser Richtlinie soll das Recht auf ein faires Verfahren in Strafverfahren gestärkt werden, indem gemeinsame
+Mindestvorschriften für bestimmte Aspekte der Unschuldsvermutung und das Recht auf Anwesenheit in der
+Verhandlung festgelegt werden.
+
+(10)
+
+Durch die Festlegung gemeinsamer Mindestvorschriften zum Schutz der Verfahrensrechte Verdächtiger und
+beschuldigter Personen zielt diese Richtlinie darauf ab, das gegenseitige Vertrauen der Mitgliedstaaten in ihre
+jeweilige Strafrechtspflege zu stärken und auf diese Weise die gegenseitige Anerkennung gerichtlicher
+Entscheidungen in Strafsachen zu erleichtern. Auch können durch die Festlegung gemeinsamer Mindestvor­
+schriften Hindernisse für die Freizügigkeit der Unionsbürger im Hoheitsgebiet der Mitgliedstaaten beseitigt
+werden.
+
+(11)
+
+Diese Richtlinie sollte nur für Strafverfahren im Sinne der Rechtsprechung des Gerichtshofs der Europäischen
+Union (im Folgenden „Gerichtshof“) gelten, unbeschadet der Rechtsprechung des Europäischen Gerichtshofs für
+Menschenrechte. Diese Richtlinie sollte nicht für Verfahren nach dem Zivil- oder Verwaltungsrecht, einschließlich
+wenn Letztere zur Verhängung von Sanktionen führen können, wie etwa Verfahren in den Bereichen Wettbewerb,
+Handel, Finanzdienstleistungen, Straßenverkehr, Steuern oder Steuerzuschläge, sowie für Ermittlungen von
+Verwaltungsbehörden im Zusammenhang mit solchen Verfahren gelten.
+
+(12)
+
+Diese Richtlinie sollte für natürliche Personen gelten, die Verdächtige oder beschuldigte Personen in einem
+Strafverfahren sind. Sie sollte ab dem Zeitpunkt gelten, in dem eine Person verdächtigt oder beschuldigt wird, eine
+Straftat oder eine mutmaßliche Straftat begangen zu haben, und somit schon bevor diese Person von den
+zuständigen Behörden eines Mitgliedstaates durch amtliche Mitteilung oder auf sonstige Weise darüber
+unterrichtet wird, dass sie Verdächtiger oder beschuldigte Person ist. Diese Richtlinie sollte in allen Abschnitten
+des Strafverfahrens bis zur Entscheidung zur abschließenden Klärung, ob der Verdächtige oder die beschuldigte
+Person die Straftat begangen hat, und bis diese Entscheidung Rechtskraft erlangt hat, Anwendung finden.
+Rechtliche Maßnahmen und Rechtsbehelfe, die erst dann zur Verfügung stehen, nachdem diese Entscheidung
+rechtskräftig geworden ist, einschließlich Beschwerden beim Europäischen Gerichtshof für Menschenrechte,
+sollten nicht in den Anwendungsbereich dieser Richtlinie fallen.
+
+(1) ABl. C 295 vom 4.12.2009, S. 1.
+(2) ABl. C 115 vom 4.5.2010, S. 1.
+(3) Richtlinie 2010/64/EU des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über das Recht auf Dolmetschleistungen und
+Übersetzungen in Strafverfahren (ABl. L 280 vom 26.10.2010, S. 1).
+(4) Richtlinie 2012/13/EU des Europäischen Parlaments und des Rates vom 22. Mai 2012 über das Recht auf Belehrung und Unterrichtung
+in Strafverfahren (ABl. L 142 vom 1.6.2012, S. 1).
+(5) Richtlinie 2013/48/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2013 über das Recht auf Zugang zu einem
+Rechtsbeistand in Strafverfahren und in Verfahren zur Vollstreckung des Europäischen Haftbefehls sowie über das Recht auf
+Benachrichtigung eines Dritten bei Freiheitsentzug und das Recht auf Kommunikation mit Dritten und mit Konsularbehörden während
+des Freiheitsentzugs (ABl. L 294 vom 6.11.2013, S. 1).
+
+11.3.2016
+
+DE
+
+Amtsblatt der Europäischen Union
+
+L 65/3
+
+(13)
+
+In dieser Richtlinie wird anerkannt, dass das Bedürfnis natürlicher und juristischer Personen nach Schutz durch
+bestimmte Aspekte der Unschuldsvermutung und das Niveau des ihnen dadurch gewährten Schutzes
+unterschiedlich sind. Zum Schutz natürlicher Personen gibt es eine ständige Rechtsprechung des Europäischen
+Gerichtshofs für Menschenrechte. Der Gerichtshof der Europäischen Union hat jedoch festgestellt, dass die aus der
+Unschuldsvermutung erwachsenden Rechte nicht in gleicher Weise für juristische Personen wie für natürliche
+Personen gelten.
+
+(14)
+
+Beim derzeitigen Stand der Entwicklung des nationalen Rechts und der Rechtsprechung auf nationaler und auf
+Unionsebene wäre es verfrüht, auf Unionsebene Rechtsvorschriften über die Unschuldsvermutung in Bezug auf
+juristische Personen zu erlassen. Deshalb sollte diese Richtlinie nicht für juristische Personen gelten. Die
+Anwendung der Unschuldsvermutung auf juristische Personen, wie sie insbesondere in der EMRK niedergelegt ist
+und vom Europäischen Gerichtshof für Menschenrechte und vom Gerichtshof ausgelegt wurde, sollte hiervon
+unberührt bleiben.
+
+(15)
+
+Die Unschuldsvermutung in Bezug auf juristische Personen dürfte durch die bestehenden rechtlichen Garantien
+und die bestehende Rechtsprechung gewährleistet sein; die Entwicklung der Rechtsprechung wird
+ausschlaggebend dafür sein, ob die Union tätig werden muss.
+
+(16)
+
+Ein Verstoß gegen die Unschuldsvermutung läge vor, wenn der Verdächtige oder die beschuldigte Person in einer
+öffentlichen Erklärung einer Behörde oder in einer gerichtlichen Entscheidung, bei der es sich nicht um eine
+Entscheidung über die Schuld handelt, als schuldig dargestellt wird, solange die Schuld dieser Person nicht
+rechtsförmlich nachgewiesen wurde. Solche Erklärungen und gerichtlichen Entscheidungen sollten nicht den
+Eindruck vermitteln, dass die betreffende Person schuldig ist. Davon sollten Strafverfolgungsmaßnahmen
+unberührt bleiben, die darauf abzielen, den Verdächtigen oder die beschuldigte Person zu überführen, wie etwa
+die Anklage, ebenso wie gerichtliche Entscheidungen, mit denen die Aussetzung einer Strafe zur Bewährung
+widerrufen wird, soweit dabei die Rechte der Verteidigung gewahrt werden. Ebenso unberührt bleiben sollten
+vorläufige Entscheidungen verfahrensrechtlicher Art, die von einer gerichtlichen oder sonstigen zuständigen Stelle
+getroffen werden und auf Verdachtsmomenten oder belastendem Beweismaterial beruhen, wie etwa
+Entscheidungen über Untersuchungshaft, soweit der Verdächtige oder die beschuldigte Personen darin nicht als
+schuldig bezeichnet wird. Bevor eine vorläufige Entscheidung verfahrensrechtlicher Art getroffen wird, müsste die
+zuständige Stelle unter Umständen zunächst prüfen, ob das gegen den Verdächtigen oder die beschuldigte Person
+vorliegende belastende Beweismaterial ausreicht, um die betreffende Entscheidung zu rechtfertigen; in der
+Entscheidung könnte auf dieses Beweismaterial Bezug genommen werden.
+
+(17)
+
+Unter „öffentliche Erklärung einer Behörde“ sollte jede Erklärung verstanden werden, in der auf eine Straftat
+Bezug genommen wird und die entweder von einer Behörde stammt, die an dem die fragliche Straftat
+betreffenden Strafverfahren beteiligt ist, wie Justizbehörden, Polizei und andere Strafverfolgungsbehörden, oder
+von einer anderen Behörde, wie Minister und andere Amtsträger, mit der Maßgabe, dass die nationalen Rechtsvor­
+schriften über die Immunität hiervon unberührt bleiben.
+
+(18)
+
+Das Verbot, Verdächtige oder beschuldigte Personen als schuldig darzustellen, sollte öffentliche Stellen nicht daran
+hindern, Informationen über Strafverfahren öffentlich zu verbreiten, wenn dies im Zusammenhang mit
+strafrechtlichen Ermittlungen, wie etwa bei einer Freigabe von Videomaterial mit der Bitte um Hinweise aus der
+Bevölkerung zur Identifizierung des mutmaßlichen Straftäters, oder im öffentlichen Interesse, wie etwa bei einer
+aus Sicherheitsgründen erfolgenden Unterrichtung der Anwohner eines von mutmaßlichen Umweltstraftaten
+betroffenen Gebiets oder bei der Bereitstellung objektiver Informationen seitens der Staatsanwaltschaft oder einer
+anderen zuständigen Stelle zum Stand eines Strafverfahrens, um Störungen der öffentlichen Ordnung zu
+verhindern, unbedingt erforderlich ist. Der Rückgriff auf solche Gründe sollte auf Situationen beschränkt bleiben,
+in denen dies unter Berücksichtigung sämtlicher Interessen zweckmäßig und verhältnismäßig erscheint. Auf jeden
+Fall sollte aufgrund der Art und des Zusammenhangs der Informationsverbreitung nicht der Eindruck entstehen,
+dass eine Person schuldig ist, bevor ihre Schuld rechtsförmlich nachgewiesen wurde.
+
+(19)
+
+Die Mitgliedstaaten sollten geeignete Maßnahmen ergreifen, um sicherzustellen, dass Behörden, wenn sie Medien
+Informationen zur Verfügung stellen, Verdächtige oder beschuldigte Personen nicht als schuldig darstellen, solange
+ihre Schuld nicht rechtsförmlich nachgewiesen wurde. Daher sollten die Mitgliedstaaten die Behörden darauf
+hinweisen, wie wichtig es ist, die Unschuldsvermutung gebührend zu beachten, wenn Informationen an die
+Medien weitergegeben oder verbreitet werden. Dies sollte unbeschadet des nationalen Rechts gelten, das die
+Freiheit der Presse und sonstiger Medien schützt.
+
+(20)
+
+Die zuständigen Behörden sollten davon absehen, Verdächtige oder beschuldigte Personen vor Gericht oder in der
+Öffentlichkeit so darzustellen, als seien sie schuldig, indem diesen gegenüber physische Zwangsmaßnahmen, wie
+Handschellen, Glaskabinen, Käfige oder Fußfesseln, zum Einsatz kommen, es sei denn, der Einsatz solcher
+Maßnahmen ist im konkreten Fall entweder aus Gründen der Sicherheit erforderlich, zum Beispiel um Verdächtige
+oder beschuldigte Personen daran zu hindern, sich selbst oder andere zu verletzen oder fremdes Eigentum zu
+beschädigen, oder um sie daran zu hindern, zu entkommen oder mit Dritten, wie Zeugen oder Opfern, Kontakt
+aufzunehmen. Die Möglichkeit des Einsatzes von physischen Zwangsmaßnahmen bedeutet nicht, dass die
+zuständigen Behörden verpflichtet sind, eine förmliche Entscheidung über den Einsatz solcher Maßnahmen zu
+treffen.
+
+L 65/4
+
+DE
+
+Amtsblatt der Europäischen Union
+
+11.3.2016
+
+(21)
+
+Soweit möglich, sollten die zuständigen Behörden auch davon absehen, Verdächtige oder beschuldigte Personen
+vor Gericht oder in der Öffentlichkeit in Häftlingskleidung zu zeigen, um nicht den Eindruck zu erwecken, diese
+Personen seien schuldig.
+
+(22)
+
+Die Beweislast für die Feststellung der Schuld von Verdächtigen und beschuldigten Personen liegt bei der Strafver­
+folgungsbehörde; Zweifel sollten dem Verdächtigen oder der beschuldigten Person zugutekommen. Unbeschadet
+einer möglichen Befugnis des Gerichts zur Tatsachenfeststellung von Amts wegen, der Unabhängigkeit der Justiz
+bei der Prüfung der Schuld des Verdächtigen oder der beschuldigten Person und der Anwendung von Tatsachenoder Rechtsvermutungen bezüglich der strafrechtlichen Verantwortlichkeit eines Verdächtigen oder einer
+beschuldigten Person, läge ein Verstoß gegen die Unschuldsvermutung vor, wenn die Beweislast von der Strafver­
+folgungsbehörde auf die Verteidigung verlagert würde. Derartige Vermutungen sollten unter Berücksichtigung der
+Bedeutung der betroffenen Belange und unter Wahrung der Verteidigungsrechte auf ein vertretbares Maß
+beschränkt werden, und die eingesetzten Mittel sollten in einem angemessenen Verhältnis zu dem angestrebten
+legitimen Ziel stehen. Diese Vermutungen sollten widerlegbar sein und sollten in jedem Fall nur angewendet
+werden, wenn die Verteidigungsrechte gewahrt sind.
+
+(23)
+
+In zahlreichen Mitgliedstaaten sind nicht nur die Staatsanwaltschaft, sondern auch Richter und zuständige
+Gerichte damit betraut, sowohl belastende als auch entlastende Beweise zu erheben. Mitgliedstaaten, die kein
+kontradiktorisches System haben, sollten ihr gegenwärtiges System beibehalten können, sofern dieses mit dieser
+Richtlinie und anderen einschlägigen Vorschriften des Unionsrechts und des internationalen Rechts im Einklang
+steht.
+
+(24)
+
+Das Aussageverweigerungsrecht ist ein wichtiger Aspekt der Unschuldsvermutung und sollte vor Selbstbelastung
+schützen.
+
+(25)
+
+Das Recht, sich nicht selbst belasten zu müssen, ist ebenfalls ein wichtiger Aspekt der Unschuldsvermutung.
+Wenn Verdächtige und beschuldigte Personen aufgefordert werden, Erklärungen abzugeben oder Fragen zu
+beantworten, sollten sie nicht gezwungen werden, Beweise beizubringen, Unterlagen vorzulegen oder Aussagen
+zu machen, die zur Selbstbelastung führen könnten.
+
+(26)
+
+Das Aussageverweigerungsrecht und das Recht, sich nicht selbst belasten zu müssen, sollten für Fragen gelten, die
+mit der Straftat, deren jemand verdächtigt oder beschuldigt wird, im Zusammenhang stehen, und nicht etwa für
+Fragen im Zusammenhang mit der Feststellung der Identität eines Verdächtigen oder einer beschuldigten Person.
+
+(27)
+
+Das Aussageverweigerungsrecht und das Recht, sich nicht selbst belasten zu müssen, umfassen auch, dass die
+zuständigen Behörden keinen Zwang auf Verdächtige oder beschuldigte Personen ausüben sollten, um sie gegen
+ihren Willen zu einer Aussage zu bewegen. Bei der Prüfung, ob das Aussageverweigerungsrecht oder das Recht,
+sich nicht selbst belasten zu müssen, verletzt wurde, sollte dem in der EMRK verankerten Recht auf ein faires
+Verfahren, wie es durch den Europäischen Gerichtshof für Menschenrechte ausgelegt wird, Rechnung getragen
+werden.
+
+(28)
+
+Die Wahrnehmung des Aussageverweigerungsrechts oder des Rechts, sich nicht selbst belasten zu müssen, sollte
+weder gegen Verdächtige oder beschuldigte Personen verwendet noch an sich als Beweis dafür gewertet werden,
+dass die fragliche Person die betreffende Straftat begangen hat. Nationale Vorschriften über die Beweiswürdigung
+durch Gerichte oder Richter sollten davon unberührt bleiben, soweit die Verteidigungsrechte gewahrt werden.
+
+(29)
+
+Die Wahrnehmung des Rechts, sich nicht selbst belasten zu müssen, sollte die zuständige Behörde nicht daran
+hindern, Beweise zu erheben, die durch Anwendung gesetzlich vorgesehener Zwangsmittel gegenüber dem
+Verdächtigen oder der beschuldigten Person rechtmäßig erlangt werden können und unabhängig vom Willen des
+Verdächtigen oder der beschuldigten Person existieren, zum Beispiel aufgrund einer gerichtlichen Anordnung
+erlangtes Material oder Material, zu dessen Abgabe auf Verlangen eine rechtliche Verpflichtung besteht, wie
+Atemluft-, Blut- und Urinproben und Körpergewebe für einen DNA-Test.
+
+(30)
+
+Das Aussageverweigerungsrecht und das Recht, sich nicht selbst belasten zu müssen, sollten die Mitgliedstaaten
+nicht daran hindern, eine Regelung zu treffen, wonach bei geringfügigen Zuwiderhandlungen, wie geringfügigen
+Straßenverkehrsdelikten, das Verfahren oder bestimmte Verfahrensabschnitte in schriftlicher Form oder ohne
+Befragung des Verdächtigen oder der beschuldigten Person durch die zuständigen Behörden bezüglich der
+fraglichen Zuwiderhandlung durchgeführt werden können, sofern das Recht auf ein faires Verfahren gewahrt
+bleibt.
+
+(31)
+
+Die Mitgliedstaaten sollten in Erwägung ziehen, sicherzustellen, dass Verdächtige oder beschuldigte Personen,
+wenn sie gemäß Artikel 3 der Richtlinie 2012/13/EU über ihre Rechte belehrt werden, auch über das Recht
+belehrt werden, sich nicht selbst belasten zu müssen, wie es im Einklang mit der vorliegenden Richtlinie im
+nationalen Recht gilt.
+
+11.3.2016
+
+DE
+
+Amtsblatt der Europäischen Union
+
+L 65/5
+
+(32)
+
+Die Mitgliedstaaten sollten in Erwägung ziehen, sicherzustellen, dass wenn Verdächtigen oder beschuldigten
+Personen gemäß Artikel 4 der Richtlinie 2012/13/EU eine schriftliche Erklärung über ihre Rechte ausgehändigt
+wird, diese Erklärung auch Informationen über das Recht enthält, sich nicht selbst belasten zu müssen, wie es im
+Einklang mit der vorliegenden Richtlinie im nationalen Recht gilt.
+
+(33)
+
+Das Recht auf ein faires Verfahren ist eines der Grundprinzipien einer demokratischen Gesellschaft. Das Recht
+von Verdächtigen und beschuldigten Personen, in der Verhandlung anwesend zu sein, beruht auf diesem Recht
+und sollte in der gesamten Union sichergestellt werden.
+
+(34)
+
+Können Verdächtige oder beschuldigte Personen aus Gründen, die sie nicht zu vertreten haben, in der
+Verhandlung nicht anwesend sein, so sollten sie innerhalb der im nationalen Recht vorgesehenen Frist einen
+neuen Verhandlungstermin beantragen können.
+
+(35)
+
+Das Recht von Verdächtigen und beschuldigten Personen auf Anwesenheit in der Verhandlung gilt nicht absolut.
+Unter bestimmten Voraussetzungen sollten Verdächtige und beschuldigte Personen ausdrücklich oder
+stillschweigend, aber unmissverständlich erklären können, auf dieses Recht zu verzichten.
+
+(36)
+
+Unter bestimmten Umständen sollte es möglich sein, dass eine Entscheidung über die Schuld oder Unschuld eines
+Verdächtigen oder einer beschuldigten Person selbst dann ergeht, wenn die betreffende Person bei der
+Verhandlung nicht anwesend ist. Dies kann der Fall sein, wenn der Verdächtige oder die beschuldigte Person,
+obgleich er bzw. sie rechtzeitig über die Verhandlung und über die Folgen des Nichterscheinens unterrichtet
+wurde, der Verhandlung fernbleibt. Die Unterrichtung des Verdächtigen oder der beschuldigten Person über die
+Verhandlung sollte dahin gehend verstanden werden, dass diese Person persönlich geladen wird oder auf anderem
+Wege amtlich über den Termin und Ort der Verhandlung in einer Weise unterrichtet wird, dass sie von der
+Verhandlung Kenntnis nehmen kann. Die Unterrichtung des Verdächtigen oder der beschuldigten Person über die
+Folgen des Nichterscheinens sollte insbesondere dahin gehend verstanden werden, dass diese Person darüber
+unterrichtet wurde, dass eine Entscheidung auch dann ergehen kann, wenn sie der Verhandlung fernbleibt.
+
+(37)
+
+Es sollte auch möglich sein, in Abwesenheit eines Verdächtigen oder einer beschuldigten Person eine Verhandlung
+durchzuführen, die zu einer Entscheidung über Schuld oder Unschuld führen kann, wenn diese Person über die
+Verhandlung unterrichtet wurde und sie einem von ihr oder vom Staat bestellten Rechtsanwalt ein Mandat erteilt
+hat, sie bei der Verhandlung zu vertreten, und dieser den Verdächtigen oder die beschuldigte Person tatsächlich
+vor Gericht vertreten hat.
+
+(38)
+
+Bei der Prüfung der Frage, ob die Art der Übermittlung der Informationen eine ausreichende Gewähr dafür bietet,
+dass die Person Kenntnis von der Verhandlung hat, sollte gegebenenfalls auch in besonderem Maße darauf
+geachtet werden, welche Sorgfalt die Behörden bei der Unterrichtung der betroffenen Person an den Tag gelegt
+haben und welche Sorgfalt die betroffene Person im Zusammenhang mit der Entgegennahme der an sie
+gerichteten Informationen an den Tag gelegt hat.
+
+(39)
+
+Wenn ein Mitgliedstaat die Möglichkeit vorsieht, Verhandlungen in Abwesenheit des Verdächtigen oder der
+beschuldigten Person durchzuführen, aber die Voraussetzungen für eine Verurteilung in Abwesenheit eines
+bestimmten Verdächtigen oder einer bestimmten beschuldigten Person nicht erfüllt waren, weil der Verdächtige
+oder die beschuldigte Person trotz angemessener Bemühungen nicht aufgefunden werden konnte, etwa weil die
+Person geflohen oder entkommen ist, sollte es dennoch möglich sein, eine solche Entscheidung in Abwesenheit
+des Verdächtigen oder der beschuldigten Person zu erlassen und diese Entscheidung zu vollstrecken. In einem
+solchen Fall sollten die Mitgliedstaaten sicherstellen, dass der Verdächtige oder die beschuldigte Person, wenn er
+bzw. sie von der Entscheidung Kenntnis erlangt, insbesondere wenn er bzw. sie festgenommen wird, auch über
+die Möglichkeit informiert wird, die Entscheidung anzufechten, sowie über das Recht, eine neue Verhandlung zu
+verlangen oder einen sonstigen Rechtsbehelf einzulegen. Diese Informationen sollten in Schriftform bereitgestellt
+werden. Die Informationen können auch mündlich erteilt werden, soweit die Tatsache, dass die Informationen
+erteilt wurden, im Einklang mit dem im nationalen Recht vorgesehenen Verfahren für Aufzeichnungen
+festgehalten wurde.
+
+(40)
+
+Die zuständigen Behörden in den Mitgliedstaaten sollten zudem einen Verdächtigen oder eine beschuldigte Person
+vorübergehend von der Verhandlung ausschließen können, wenn dies dem Zweck dient, den ordnungsgemäßen
+Ablauf des Strafverfahrens sicherzustellen. Dies könnte beispielsweise der Fall sein, wenn ein Verdächtiger oder
+eine beschuldigte Person die Verhandlung stört und auf Anordnung des Richters des Saales verwiesen wird oder
+wenn sich herausstellt, dass die Anwesenheit eines Verdächtigen oder einer beschuldigten Person den
+ordnungsgemäßen Ablauf einer Zeugenvernehmung verhindert.
+
+(41)
+
+Das Recht auf Anwesenheit in der Verhandlung kann nur dann wahrgenommen werden, wenn eine oder mehrere
+Verhandlungen durchgeführt werden. Dies bedeutet, dass das Recht auf Anwesenheit in der Verhandlung nicht
+wahrgenommen werden kann, wenn die maßgeblichen nationalen Verfahrensvorschriften keine Verhandlung
+vorsehen. Diese nationalen Vorschriften sollten der Charta und der EMRK, wie sie durch den Gerichtshof und den
+Europäischen Gerichtshof für Menschenrechte ausgelegt werden, entsprechen, insbesondere in Bezug auf das
+Recht auf ein faires Verfahren. Dies ist beispielsweise der Fall bei vereinfachten Gerichtsverfahren, die vollständig
+oder teilweise schriftlich durchgeführt werden oder bei denen keine mündliche Verhandlung vorgesehen ist.
+
+L 65/6
+
+DE
+
+Amtsblatt der Europäischen Union
+
+11.3.2016
+
+(42)
+
+Die Mitgliedstaaten sollten dafür Sorge tragen, dass bei der Umsetzung dieser Richtlinie, insbesondere hinsichtlich
+des Rechts, in der Verhandlung anwesend zu sein, und des Rechts auf eine neue Verhandlung, die besonderen
+Bedürfnisse schutzbedürftiger Personen berücksichtigt werden. Gemäß der Empfehlung der Kommission vom
+27. November 2013 über Verfahrensgarantien in Strafverfahren für verdächtige oder beschuldigte schutzbe­
+dürftige Personen (1) sind unter schutzbedürftigen Verdächtigen und beschuldigten Personen alle Verdächtigen
+oder beschuldigten Personen zu verstehen, die aufgrund ihres Alters, ihrer geistigen oder körperlichen Verfassung
+oder aufgrund irgendeiner möglichen Behinderung nicht in der Lage sind, einem Strafverfahren zu folgen oder
+tatsächlich daran teilzunehmen.
+
+(43)
+
+Kinder sind schutzbedürftig und sollten besonders geschützt werden. Daher sollten im Hinblick auf einige in
+dieser Richtlinie vorgesehenen Rechte zusätzliche spezielle Verfahrensgarantien festgelegt werden.
+
+(44)
+
+Nach dem Grundsatz der praktischen Wirksamkeit des Unionsrechts sind die Mitgliedstaaten verpflichtet, für den
+Fall der Verletzung eines durch Unionsrecht garantierten individuellen Rechts angemessene, wirksame
+Rechtsbehelfe vorzusehen. Ein wirksamer Rechtsbehelf bei einem Verstoß gegen ein in dieser Richtlinie
+festgelegtes Recht sollte die Verdächtigen oder beschuldigten Personen so weit wie möglich in die Lage versetzen,
+in der sie sich ohne den Verstoß befinden würden, damit das Recht auf ein faires Verfahren und das Recht auf
+Verteidigung gewahrt werden.
+
+(45)
+
+Bei der Würdigung von Aussagen von Verdächtigen oder beschuldigten Personen oder von Beweismitteln, die
+unter Verstoß gegen das Aussageverweigerungsrecht oder das Recht, sich nicht selbst belasten zu müssen, erlangt
+wurden, sollten Gerichte und Richter die Verteidigungsrechte und den Grundsatz des fairen Verfahrens beachten.
+In diesem Zusammenhang sollte der Rechtsprechung des Europäischen Gerichtshofs für Menschenrechte
+Rechnung getragen werden, der zufolge die Zulassung von Aussagen, die unter Verstoß gegen Artikel 3 EMRK
+durch Folter oder sonstige Misshandlung erlangt wurden, als Beweismittel zur Feststellung des Sachverhalts in
+einem Strafprozess dazu führt, dass das Verfahren insgesamt als unfair zu betrachten ist. Gemäß dem
+Übereinkommen der Vereinten Nationen gegen Folter und andere grausame, unmenschliche oder erniedrigende
+Behandlung oder Strafe dürfen Aussagen, die nachweislich durch Folter herbeigeführt wurden, nicht als Beweis in
+einem Verfahren verwendet werden, es sei denn gegen eine der Folter angeklagte Person als Beweis dafür, dass die
+Aussage gemacht wurde.
+
+(46)
+
+Damit die Wirksamkeit dieser Richtlinie überprüft und bewertet werden kann, sollten die Mitgliedstaaten der
+Kommission verfügbare Daten über die Umsetzung der in dieser Richtlinie festgelegten Rechte übermitteln. Zu
+diesen Daten könnten die von Strafverfolgungs- und Justizbehörden erfassten Aufzeichnungen über Rechtsbehelfe
+gehören, die bei Verletzung eines der unter diese Richtlinie fallenden Aspekte der Unschuldsvermutung oder des
+Rechts auf Anwesenheit in der Verhandlung angewandt wurden.
+
+(47)
+
+Diese Richtlinie wahrt die in der Charta und der EMRK anerkannten Grundrechte und Grundsätze, darunter das
+Verbot von Folter und unmenschlicher oder erniedrigender Behandlung, das Recht auf Freiheit und Sicherheit
+sowie auf Achtung des Privat- und Familienlebens, das Recht auf Unversehrtheit, die Rechte des Kindes, das Recht
+auf Integration von Menschen mit Behinderung, das Recht auf einen wirksamen Rechtsbehelf und auf ein faires
+Verfahren, die Unschuldsvermutung und die Verteidigungsrechte. Berücksichtigt werden sollte insbesondere
+Artikel 6 des Vertrags über die Europäische Union (EUV), dem zufolge die Union die Rechte, Freiheiten und
+Grundsätze anerkennt, die in der Charta niedergelegt sind, und dem zufolge die Grundrechte, wie sie in der
+EMRK gewährleistet sind und wie sie sich aus den gemeinsamen Verfassungsüberlieferungen der Mitgliedstaaten
+ergeben, als allgemeine Grundsätze Teil des Unionsrechts sind.
+
+(48)
+
+Da mit dieser Richtlinie Mindestvorschriften festgelegt werden, sollten die Mitgliedstaaten die in dieser Richtlinie
+festgelegten Rechte ausweiten können, um ein höheres Schutzniveau zu gewährleisten. Das durch die
+Mitgliedstaaten gewährte Schutzniveau sollte nie unter den Standards der Charta oder der EMRK, wie sie vom
+Gerichtshof der Europäischen Union und vom Europäischen Gerichtshof für Menschenrechte ausgelegt werden,
+liegen.
+
+(49)
+
+Da das Ziel dieser Richtlinie, nämlich die Festlegung gemeinsamer Mindestvorschriften in Bezug auf bestimmte
+Aspekte der Unschuldsvermutung und das Recht auf Anwesenheit in der Verhandlung in Strafverfahren, von den
+Mitgliedstaaten nicht ausreichend verwirklicht werden kann, sondern vielmehr wegen des Umfangs der
+Maßnahme auf Unionsebene besser zu verwirklichen ist, kann die Union im Einklang mit dem in Artikel 5 EUV
+verankerten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der
+Verhältnismäßigkeit geht diese Richtlinie nicht über das für die Verwirklichung dieser Ziele erforderliche Maß
+hinaus.
+
+(1) ABl. C 378 vom 24.12.2013, S. 8.
+
+11.3.2016
+
+Amtsblatt der Europäischen Union
+
+DE
+
+L 65/7
+
+(50)
+
+Nach den Artikeln 1 und 2 des dem EUV und dem AEUV beigefügten Protokolls Nr. 21 über die Position des
+Vereinigten Königreichs und Irlands hinsichtlich des Raums der Freiheit, der Sicherheit und des Rechts und
+unbeschadet des Artikels 4 dieses Protokolls beteiligen sich diese Mitgliedstaaten nicht an der Annahme dieser
+Richtlinie und sind weder durch diese Richtlinie gebunden noch zu ihrer Anwendung verpflichtet.
+
+(51)
+
+Nach den Artikeln 1 und 2 des dem EUV und dem AEUV beigefügten Protokolls Nr. 22 über die Position
+Dänemarks beteiligt sich Dänemark nicht an der Annahme dieser Richtlinie und ist weder durch diese Richtlinie
+gebunden noch zu ihrer Anwendung verpflichtet —
+
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+KAPITEL 1
+GEGENSTAND UND ANWENDUNGSBEREICH
+
+Artikel 1
+Gegenstand
+Diese Richtlinie enthält gemeinsame Mindestvorschriften für
+a) bestimmte Aspekte der Unschuldsvermutung in Strafverfahren,
+b) das Recht auf Anwesenheit in der Verhandlung in Strafverfahren.
+
+Artikel 2
+Anwendungsbereich
+Diese Richtlinie gilt für natürliche Personen, die Verdächtige oder beschuldigte Personen in Strafverfahren sind. Sie gilt
+für alle Abschnitte des Strafverfahrens ab dem Zeitpunkt, zu dem eine Person verdächtigt oder beschuldigt wird, eine
+Straftat oder eine mutmaßliche Straftat begangen zu haben, bis die Entscheidung über die endgültige Feststellung, ob
+diese Person die betreffende Straftat begangen hat, Rechtskraft erlangt hat.
+
+KAPITEL 2
+UNSCHULDSVERMUTUNG
+
+Artikel 3
+Unschuldsvermutung
+Die Mitgliedstaaten stellen sicher, dass Verdächtige und beschuldigte Personen als unschuldig gelten, bis ihre Schuld
+rechtsförmlich nachgewiesen wurde.
+
+Artikel 4
+Öffentliche Bezugnahme auf die Schuld
+(1) Die Mitgliedstaaten treffen die erforderlichen Maßnahmen, um sicherzustellen, dass, solange die Schuld eines
+Verdächtigen oder einer beschuldigten Person nicht rechtsförmlich nachgewiesen wurde, in öffentlichen Erklärungen von
+Behörden und in nicht die Frage der Schuld betreffenden gerichtlichen Entscheidungen nicht so auf die betreffende
+Person Bezug genommen wird, als sei sie schuldig. Dies gilt unbeschadet der Strafverfolgungsmaßnahmen, die dazu
+dienen, den Verdächtigen oder die beschuldigte Person zu überführen, sowie unbeschadet der vorläufigen
+Entscheidungen verfahrensrechtlicher Art, die von einer gerichtlichen oder sonstigen zuständigen Stelle getroffen werden
+und auf Verdachtsmomenten oder belastendem Beweismaterial beruhen.
+
+L 65/8
+
+DE
+
+Amtsblatt der Europäischen Union
+
+11.3.2016
+
+(2) Die Mitgliedstaaten stellen sicher, dass bei einem Verstoß gegen die in Absatz 1 dieses Artikels festgelegte
+Verpflichtung, nicht so auf Verdächtige oder beschuldigte Personen Bezug zu nehmen, als seien sie schuldig, im Einklang
+mit dieser Richtlinie und insbesondere mit Artikel 10 geeignete Maßnahmen zur Verfügung stehen.
+(3) Die in Absatz 1 festgelegte Verpflichtung, nicht so auf Verdächtige und beschuldigte Personen Bezug zu nehmen,
+als seien sie schuldig, hindert die Behörden nicht daran, Informationen über ein Strafverfahren öffentlich zu verbreiten,
+wenn dies im Zusammenhang mit den strafrechtlichen Ermittlungen oder im öffentlichen Interesse unbedingt
+erforderlich ist.
+
+Artikel 5
+Darstellung von Verdächtigen und beschuldigten Personen
+(1) Die Mitgliedstaaten ergreifen die erforderlichen Maßnahmen, um sicherzustellen, dass Verdächtige und
+beschuldigte Personen vor Gericht oder in der Öffentlichkeit nicht durch den Einsatz von physischen
+Zwangsmaßnahmen so dargestellt werden, als seien sie schuldig.
+(2) Absatz 1 hindert die Mitgliedstaaten nicht daran, physische Zwangsmaßnahmen einzusetzen, wenn dies im
+konkreten Fall aus Gründen der Sicherheit erforderlich ist oder dazu dient, einen Verdächtigen oder eine beschuldigte
+Person daran zu hindern, zu entkommen oder mit Dritten Kontakt aufzunehmen.
+
+Artikel 6
+Beweislast
+(1) Die Mitgliedstaaten stellen sicher, dass die Beweislast für die Feststellung der Schuld von Verdächtigen und
+beschuldigten Personen bei der Strafverfolgungsbehörde liegt. Dies gilt unbeschadet einer Verpflichtung des Richters oder
+des zuständigen Gerichts, sowohl belastende als auch entlastende Beweise zu ermitteln, und unbeschadet des Rechts der
+Verteidigung, gemäß dem geltenden nationalen Recht Beweismittel vorzulegen.
+(2) Die Mitgliedstaaten stellen sicher, dass jeglicher Zweifel hinsichtlich der Frage der Schuld dem Verdächtigen oder
+der beschuldigten Personen zugutekommt, einschließlich in Fällen, wenn das Gericht prüft, ob die betreffende Person
+freigesprochen werden sollte.
+
+Artikel 7
+Recht, die Aussage zu verweigern, und Recht, sich nicht selbst belasten zu müssen
+(1) Die Mitgliedstaaten stellen sicher, dass Verdächtige und beschuldigte Personen das Recht haben, in Bezug auf die
+Straftat, deren sie verdächtigt oder beschuldigt werden, die Aussage zu verweigern.
+(2) Die Mitgliedstaaten stellen sicher, dass Verdächtige und beschuldigte Personen das Recht haben, sich nicht selbst
+belasten zu müssen.
+(3) Die Wahrnehmung des Rechts, sich nicht selbst belasten zu müssen, steht nicht der Beschaffung von
+Beweismitteln durch die zuständigen Behörden entgegen, die mithilfe gesetzlich vorgesehener Zwangsmittel rechtmäßig
+erlangt werden können und unabhängig vom Willen der Verdächtigen oder beschuldigte Personen existieren.
+(4) Die Mitgliedstaaten können es ihren Justizbehörden gestatten, kooperatives Verhalten von Verdächtigen und
+beschuldigten Personen bei der Verurteilung zu berücksichtigen.
+(5) Die Wahrnehmung des Rechts, die Aussage zu verweigern, oder des Rechts, sich nicht selbst belasten zu müssen,
+durch Verdächtige und beschuldigte Personen, darf weder gegen sie verwendet werden noch als Beweis dafür gewertet
+werden, dass sie die betreffende Straftat begangen haben.
+
+11.3.2016
+
+DE
+
+Amtsblatt der Europäischen Union
+
+L 65/9
+
+(6) Dieser Artikel hindert die Mitgliedstaaten nicht daran, eine Regelung zu treffen, wonach bei geringfügigen
+Zuwiderhandlungen das Verfahren oder bestimmte Verfahrensabschnitte in schriftlicher Form oder ohne Befragung des
+Verdächtigen oder der beschuldigten Person durch die zuständigen Behörden bezüglich der fraglichen Zuwiderhandlung
+durchgeführt werden können, sofern das Recht auf ein faires Verfahren gewahrt bleibt.
+
+KAPITEL 3
+RECHT AUF ANWESENHEIT IN DER VERHANDLUNG
+
+Artikel 8
+Recht auf Anwesenheit in der Verhandlung
+(1) Die Mitgliedstaaten stellen sicher, dass Verdächtige und beschuldigte Personen das Recht haben, in der sie
+betreffenden Verhandlung anwesend zu sein.
+(2) Die Mitgliedstaaten können vorsehen, dass eine Verhandlung, die zu einer Entscheidung über die Schuld oder
+Unschuld eines Verdächtigen oder einer beschuldigten Person führen kann, in seiner bzw. ihrer Abwesenheit
+durchgeführt werden kann, sofern
+a) der Verdächtige oder die beschuldigte Person rechtzeitig über die Verhandlung und über die Folgen des
+Nichterscheinens unterrichtet wurde oder
+b) der Verdächtige oder die beschuldigte Person, nachdem er bzw. sie über die Verhandlung unterrichtet wurde, von
+einem bevollmächtigten Rechtsanwalt vertreten wird, der entweder von dem Verdächtigen oder der beschuldigten
+Person oder vom Staat bestellt wurde.
+(3) Eine Entscheidung, die im Einklang mit Absatz 2 getroffen wurde, kann gegen die betreffende Person vollstreckt
+werden.
+(4) Wenn Mitgliedstaaten die Möglichkeit vorsehen, Verhandlungen in Abwesenheit des Verdächtigen oder der
+beschuldigten Person zu führen, es jedoch nicht möglich ist, die in Absatz 2 dieses Artikels genannten Voraussetzungen
+zu erfüllen, weil der Verdächtige oder die beschuldigte Person trotz angemessener Bemühungen nicht aufgefunden
+werden kann, so können die Mitgliedstaaten vorsehen, dass gleichwohl eine Entscheidung ergehen und vollstreckt
+werden kann. In einem solchen Fall stellen die Mitgliedstaaten sicher, dass Verdächtige oder beschuldigte Personen, wenn
+sie über die Entscheidung unterrichtet werden, insbesondere wenn sie festgenommen werden, auch über die Möglichkeit,
+die Entscheidung anzufechten, sowie über das Recht, gemäß Artikel 9 eine neue Verhandlung zu verlangen oder einen
+sonstigen Rechtsbehelf einzulegen, unterrichtet werden.
+(5) Dieser Artikel gilt unbeschadet nationaler Vorschriften, die vorsehen, dass der Richter oder das zuständige Gericht
+einen Verdächtigen oder eine beschuldigte Person zeitweise von der Verhandlung ausschließen kann, wenn dies für die
+Sicherstellung des ordnungsgemäßen Ablaufs des Strafverfahrens erforderlich ist, vorausgesetzt, dass die Verteidi­
+gungsrechte gewahrt werden.
+(6) Dieser Artikel gilt unbeschadet der nationalen Vorschriften, die vorsehen, dass das Verfahren oder bestimmte
+Verfahrensabschnitte schriftlich durchgeführt werden, vorausgesetzt, dass das Recht auf ein faires Verfahren gewahrt
+bleibt.
+
+Artikel 9
+Recht auf eine neue Verhandlung
+Die Mitgliedstaaten stellen sicher, dass Verdächtige oder beschuldigte Personen, wenn sie bei der sie betreffenden
+Verhandlung nicht anwesend waren und die in Artikel 8 Absatz 2 genannten Voraussetzungen nicht erfüllt wurden, das
+Recht auf eine neue Verhandlung oder auf Einlegung eines sonstigen Rechtsbehelfs haben, die bzw. der eine neue
+Prüfung des Sachverhalts, einschließlich neuer Beweismittel, ermöglicht und zur Aufhebung der ursprünglichen
+Entscheidung führen kann. In diesem Zusammenhang stellen die Mitgliedstaaten sicher, dass diese Verdächtigen und
+beschuldigten Personen das Recht haben, anwesend zu sein, im Einklang mit den Verfahren des nationalen Rechts
+effektiv mitzuwirken und ihre Verteidigungsrechte wahrzunehmen.
+
+L 65/10
+
+DE
+
+Amtsblatt der Europäischen Union
+
+11.3.2016
+
+KAPITEL 4
+ALLGEMEINE UND SCHLUSSBESTIMMUNGEN
+
+Artikel 10
+Rechtsbehelfe
+(1) Die Mitgliedstaaten stellen sicher, dass Verdächtige und beschuldigte Personen im Falle einer Verletzung ihrer in
+dieser Richtlinie festgelegten Rechte über einen wirksamen Rechtsbehelf verfügen.
+(2) Unbeschadet der nationalen Vorschriften und Regelungen über die Zulässigkeit von Beweismitteln sorgen die
+Mitgliedstaaten dafür, dass bei der Würdigung von Aussagen von Verdächtigen oder beschuldigten Personen oder von
+Beweisen, die unter Missachtung des Aussageverweigerungsrechts oder des Rechts, sich nicht selbst belasten zu müssen,
+erlangt wurden, die Verteidigungsrechte und das Recht auf ein faires Verfahren beachtet werden.
+
+Artikel 11
+Datenerhebung
+Die Mitgliedstaaten übermitteln der Kommission bis zum 1. April 2020 und danach alle drei Jahre die verfügbaren
+Daten, aus denen hervorgeht, wie die in dieser Richtlinie festgelegten Rechte umgesetzt worden sind.
+
+Artikel 12
+Berichterstattung
+Die Kommission übermittelt dem Europäischen Parlament und dem Rat bis zum 1. April 2021 einen Bericht über die
+Umsetzung dieser Richtlinie.
+
+Artikel 13
+Regressionsverbot
+Diese Richtlinie ist nicht so auszulegen, dass dadurch die Rechte oder Verfahrensgarantien nach Maßgabe der Charta, der
+EMRK oder anderer einschlägiger Bestimmungen des Völkerrechts oder des Rechts der Mitgliedstaaten, die ein höheres
+Schutzniveau vorsehen, beschränkt oder beeinträchtigt würden.
+
+Artikel 14
+Umsetzung
+(1) Die Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften in Kraft, die erforderlich sind, um dieser
+Richtlinie bis zum 1. April 2018 nachzukommen. Sie setzen die Kommission unverzüglich davon in Kenntnis.
+Bei Erlass dieser Vorschriften nehmen die Mitgliedstaaten in den Vorschriften selbst oder durch einen Hinweis bei der
+amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten dieser Bezugnahme.
+(2) Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen Vorschriften mit, die sie auf
+dem unter diese Richtlinie fallenden Gebiet erlassen.
+
+11.3.2016
+
+Amtsblatt der Europäischen Union
+
+DE
+
+Artikel 15
+Inkrafttreten
+Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+Artikel 16
+Adressaten
+Diese Richtlinie ist gemäß den Verträgen an die Mitgliedstaaten gerichtet.
+
+Geschehen zu Straßburg am 9. März 2016.
+Im Namen des Europäischen Parlaments
+
+Im Namen des Rates
+
+Der Präsident
+
+Die Präsidentin
+
+M. SCHULZ
+
+J.A. HENNIS-PLASSCHAERT
+
+L 65/11
+
+

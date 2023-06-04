@@ -1,0 +1,761 @@
+11.3.2016
+
+Journal officiel de l'Union européenne
+
+FR
+
+L 65/1
+
+I
+(Actes législatifs)
+
+DIRECTIVES
+DIRECTIVE (UE) 2016/343 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 9 mars 2016
+portant renforcement de certains aspects de la présomption d'innocence et du droit d'assister à
+son procès dans le cadre des procédures pénales
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l'Union européenne, et notamment son article 82, paragraphe 2, point b),
+
+vu la proposition de la Commission européenne,
+
+après transmission du projet d'acte législatif aux parlements nationaux,
+
+vu l'avis du Comité économique et social européen (1),
+
+après consultation du Comité des régions,
+
+statuant conformément à la procédure législative ordinaire (2),
+
+considérant ce qui suit:
+
+(1)
+
+La présomption d'innocence et le droit à un procès équitable sont consacrés aux articles 47 et 48 de la charte des
+droits fondamentaux de l'Union européenne (ci-après dénommée «charte»), à l'article 6 de la convention de
+sauvegarde des droits de l'homme et des libertés fondamentales (CEDH), à l'article 14 du pacte international
+relatif aux droits civils et politiques (PIDCP) et à l'article 11 de la déclaration universelle des droits de l'homme.
+
+(2)
+
+L'Union s'est donné pour objectif de maintenir et de développer un espace de liberté, de sécurité et de justice.
+Conformément aux conclusions de la présidence du Conseil européen de Tampere des 15 et 16 octobre 1999, et
+notamment au point 33) de celles-ci, le renforcement de la reconnaissance mutuelle des jugements et autres
+décisions judiciaires et le nécessaire rapprochement des législations faciliteraient la coopération entre les autorités
+compétentes et la protection judiciaire des droits des personnes. Le principe de reconnaissance mutuelle devrait
+dès lors devenir la pierre angulaire de la coopération judiciaire en matière civile et pénale au sein de l'Union.
+
+(3)
+
+Le traité sur le fonctionnement de l'Union européenne prévoit que la coopération judiciaire en matière pénale
+dans l'Union est fondée sur le principe de reconnaissance mutuelle des jugements et autres décisions judiciaires.
+
+(1) JO C 226 du 16.7.2014, p. 63.
+(2) Position du Parlement européen du 20 janvier 2016 (non encore parue au Journal officiel) et décision du Conseil du 12 février 2016.
+
+L 65/2
+
+FR
+
+Journal officiel de l'Union européenne
+
+11.3.2016
+
+(4)
+
+La mise en œuvre dudit principe présuppose une confiance mutuelle des États membres dans leurs systèmes
+respectifs de justice pénale. L'étendue du principe de la reconnaissance mutuelle dépend d'un certain nombre de
+paramètres, au nombre desquels figurent les mécanismes de protection des droits des suspects et des personnes
+poursuivies et la définition de normes minimales communes nécessaires pour faciliter l'application de ce principe.
+
+(5)
+
+Bien que les États membres soient parties à la CEDH et au PIDCP, l'expérience a montré que cette adhésion ne
+permet pas toujours en elle-même d'assurer un degré de confiance suffisant dans les systèmes de justice pénale
+des autres États membres.
+
+(6)
+
+Le 30 novembre 2009, le Conseil a adopté une résolution relative à la feuille de route visant à renforcer les droits
+procéduraux des suspects ou des personnes poursuivies dans le cadre des procédures pénales ( (1)) (ci-après
+dénommée «feuille de route»). Dans le cadre d'une approche progressive, la feuille de route demande l'adoption de
+mesures relatives au droit à la traduction et à l'interprétation (mesure A), au droit à l'information concernant les
+droits et l'accusation (mesure B), au droit à l'assistance d'un conseiller juridique et à une aide juridictionnelle
+(mesure C), au droit à la communication avec les proches, les employeurs et les autorités consulaires (mesure D)
+et à des garanties particulières pour les suspects ou les personnes poursuivies qui sont vulnérables (mesure E).
+
+(7)
+
+Le 11 décembre 2009, le Conseil européen a salué la feuille de route, qu'il a intégrée dans le programme de
+Stockholm — une Europe ouverte et sûre qui sert et protège les citoyens (2) (point 2.4). Le Conseil européen y
+soulignait le caractère non exhaustif de la feuille de route, en invitant la Commission à examiner d'autres
+éléments des droits procéduraux minimaux pour les suspects et les personnes poursuivies et à déterminer si
+d'autres questions, telles que, notamment, la présomption d'innocence, nécessitent d'être abordées, afin de
+promouvoir une meilleure coopération dans ce domaine.
+
+(8)
+
+À ce jour, trois mesures relatives aux droits procéduraux dans les procédures pénales ont été adoptées en
+application de la feuille de route, à savoir les directives du Parlement européen et du Conseil 2010/64/UE (3),
+2012/13/UE (4) et 2013/48/UE (5).
+
+(9)
+
+La présente directive a pour objet de renforcer le droit à un procès équitable dans le cadre des procédures
+pénales, en définissant des règles minimales communes concernant certains aspects de la présomption
+d'innocence et le droit d'assister à son procès.
+
+(10)
+
+En établissant des règles minimales communes relatives à la protection des droits procéduraux des suspects et des
+personnes poursuivies, la présente directive vise à renforcer la confiance des États membres dans le système de
+justice pénale des autres États membres et, par conséquent, à faciliter la reconnaissance mutuelle des décisions en
+matière pénale. Ces règles minimales communes peuvent également supprimer des obstacles à la libre circulation
+des citoyens sur l'ensemble du territoire des États membres.
+
+(11)
+
+La présente directive ne devrait s'appliquer qu'aux procédures pénales telles qu'elles sont interprétées par la Cour
+de justice de l'Union européenne (ci-après dénommée «Cour de justice»), sans préjudice de la jurisprudence de la
+Cour européenne des droits de l'homme. La présente directive ne devrait s'appliquer ni aux procédures civiles, ni
+aux procédures administratives, y compris lorsque ces dernières peuvent aboutir à des sanctions, telles que les
+procédures en matière de concurrence, de commerce, de services financiers, de circulation routière, de fiscalité ou
+de majorations d'impôt, ni aux enquêtes menées par les autorités administratives en rapport avec ces procédures.
+
+(12)
+
+La présente directive devrait s'appliquer aux personnes physiques qui sont des suspects ou des personnes
+poursuivies dans le cadre des procédures pénales. Elle devrait s'appliquer à partir du moment où une personne est
+soupçonnée d'avoir commis une infraction pénale ou une infraction pénale alléguée, ou est poursuivie à ce titre,
+et, dès lors, avant même que cette personne ne soit informée par les autorités compétentes d'un État membre, par
+notification officielle ou par tout autre moyen, qu'elle est un suspect ou une personne poursuivie. La présente
+directive devrait s'appliquer à tous les stades de la procédure pénale jusqu'à ce que la décision finale visant à
+déterminer si le suspect ou la personne poursuivie a commis l'infraction pénale soit devenue définitive. Les
+actions en justice et les voies de recours qui ne sont possibles que lorsque cette décision est devenue définitive, y
+compris les actions devant la Cour européenne des droits de l'homme, ne devraient pas relever du champ d'appli­
+cation de la présente directive.
+
+(1) JO C 295 du 4.12.2009, p. 1.
+(2) JO C 115 du 4.5.2010, p. 1.
+(3) Directive 2010/64/UE du Parlement européen et du Conseil du 20 octobre 2010 relative au droit à l'interprétation et à la traduction dans
+le cadre des procédures pénales (JO L 280 du 26.10.2010, p. 1).
+(4) Directive 2012/13/UE du Parlement européen et du Conseil du 22 mai 2012 relative au droit à l'information dans le cadre des
+procédures pénales (JO L 142 du 1.6.2012, p. 1).
+(5) Directive 2013/48/UE du Parlement européen et du Conseil du 22 octobre 2013 relative au droit d'accès à un avocat dans le cadre des
+procédures pénales et des procédures relatives au mandat d'arrêt européen, au droit d'informer un tiers dès la privation de liberté et au
+droit des personnes privées de liberté de communiquer avec des tiers et avec les autorités consulaires (JO L 294 du 6.11.2013, p. 1).
+
+11.3.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 65/3
+
+(13)
+
+La présente directive reconnaît que les besoins et les niveaux de protection de certains aspects de la présomption
+d'innocence diffèrent selon qu'il s'agit de personnes physiques ou de personnes morales. En ce qui concerne les
+personnes physiques, cette protection transparaît dans la jurisprudence bien établie de la Cour européenne des
+droits de l'homme. La Cour de justice, pour sa part, a néanmoins reconnu que les droits découlant de la
+présomption d'innocence ne bénéficient pas aux personnes morales de la même manière qu'aux personnes
+physiques.
+
+(14)
+
+Eu égard au degré d'évolution actuel du droit national et de la jurisprudence développée tant au niveau national
+qu'au niveau de l'Union, il est prématuré de légiférer au niveau de l'Union sur la présomption d'innocence des
+personnes morales. Par conséquent, la présente directive ne devrait pas s'appliquer aux personnes morales. Ceci
+devrait s'entendre sans préjudice de l'application de la présomption d'innocence, telle qu'elle est énoncée, en
+particulier, dans la CEDH et telle qu'elle est interprétée par la Cour européenne des droits de l'homme et par la
+Cour de justice, aux personnes morales.
+
+(15)
+
+La présomption d'innocence des personnes morales devrait être protégée par les garanties législatives existantes et
+la jurisprudence actuelle, dont l'évolution devrait déterminer l'opportunité d'agir au niveau de l'Union.
+
+(16)
+
+La présomption d'innocence serait violée si des déclarations publiques faites par des autorités publiques, ou des
+décisions judiciaires autres que des décisions statuant sur la culpabilité, présentaient un suspect ou une personne
+poursuivie comme étant coupable, aussi longtemps que la culpabilité de cette personne n'a pas été légalement
+établie. De telles déclarations et décisions judiciaires ne devraient pas refléter le sentiment que cette personne est
+coupable. Ceci devrait s'entendre sans préjudice des actes de poursuite qui visent à établir la culpabilité du suspect
+ou de la personne poursuivie, tels que l'acte d'accusation, et sans préjudice des décisions judiciaires à la suite
+desquelles une condamnation avec sursis devient exécutoire, pour autant que les droits de la défense soient
+respectés. Ceci devrait s'entendre également sans préjudice des décisions préliminaires de nature procédurale, qui
+sont prises par des autorités judiciaires ou d'autres autorités compétentes et qui se fondent sur des soupçons ou
+des éléments de preuve à charge, telles que les décisions de détention provisoire, pourvu que ces décisions ne
+présentent pas le suspect ou la personne poursuivie comme étant coupable. Avant de prendre une décision
+préliminaire de nature procédurale, l'autorité compétente pourrait être d'abord tenue de vérifier qu'il existe
+suffisamment d'éléments de preuve à charge à l'égard du suspect ou de la personne poursuivie pour justifier ladite
+décision, et celle-ci pourrait contenir une référence à ces éléments.
+
+(17)
+
+L'expression «déclarations publiques faites par des autorités publiques» devrait s'entendre comme toute déclaration
+qui porte sur une infraction pénale et qui émane d'une autorité impliquée dans la procédure pénale concernant
+cette infraction pénale, telle que les autorités judiciaires, la police et d'autres autorités répressives, ou d'une autre
+autorité publique, telle que des ministres et d'autres agents publics, cela étant entendu sans préjudice des
+dispositions de droit national relatives à l'immunité.
+
+(18)
+
+L'obligation de ne pas présenter les suspects ou les personnes poursuivies comme étant coupables ne devrait pas
+empêcher les autorités publiques de diffuser publiquement des informations sur les procédures pénales lorsque
+cela est strictement nécessaire pour des raisons tenant à l'enquête pénale, par exemple lorsque du matériel vidéo
+est diffusé et que le public est invité à aider à identifier l'auteur présumé d'une infraction pénale, ou pour des
+raisons tenant à l'intérêt public, par exemple lorsque, pour des raisons de sécurité, des informations sont fournies
+aux habitants d'une zone touchée par une infraction environnementale alléguée ou lorsque l'accusation ou une
+autre autorité compétente fournit des informations objectives sur l'état d'une procédure pénale dans le but de
+prévenir des troubles à l'ordre public. Le recours à de telles raisons devrait se limiter aux situations dans lesquelles
+il paraît raisonnable et proportionné, compte tenu de tous les intérêts en présence. En tout état de cause, la
+manière dont les informations sont diffusées et le contexte de cette diffusion ne devraient pas donner l'impression
+que la personne est coupable avant que sa culpabilité n'ait été légalement établie.
+
+(19)
+
+Les États membres devraient prendre des mesures appropriées pour garantir que les autorités publiques, quand
+elles donnent des informations aux médias, ne présentent pas les suspects ou les personnes poursuivies comme
+étant coupables aussi longtemps que leur culpabilité n'a pas été légalement établie. À cette fin, les États membres
+devraient informer les autorités publiques de l'importance à accorder à la présomption d'innocence quand elles
+donnent ou divulguent des informations aux médias. Ceci devrait s'entendre sans préjudice des dispositions de
+droit national protégeant la liberté de la presse et d'autres médias.
+
+(20)
+
+Les autorités compétentes devraient s'abstenir de présenter les suspects ou les personnes poursuivies comme étant
+coupables, à l'audience ou en public, par le recours à des mesures de contrainte physique, telles que menottes,
+boxes vitrés, cages et entraves de métal, à moins que le recours à de telles mesures ne soit nécessaire pour des
+raisons liées au cas d'espèce relatives soit à la sécurité, notamment pour empêcher les suspects ou les personnes
+poursuivies de nuire à eux-mêmes ou à autrui ou d'endommager tout bien, soit à la nécessité d'empêcher les
+suspects ou les personnes poursuivies de prendre la fuite ou d'entrer en relation avec des tiers, comme des
+témoins ou des victimes. La possibilité d'appliquer des mesures de contrainte physique n'implique pas que les
+autorités compétentes soient tenues de prendre une décision officielle sur le recours à de telles mesures.
+
+L 65/4
+
+FR
+
+Journal officiel de l'Union européenne
+
+11.3.2016
+
+(21)
+
+Lorsque cela est faisable, les autorités compétentes devraient aussi s'abstenir de présenter les suspects ou les
+personnes poursuivies, à l'audience ou en public, en uniforme de détenu, de façon à éviter de donner l'impression
+que ces personnes sont coupables.
+
+(22)
+
+La charge de la preuve pour établir la culpabilité des suspects et des personnes poursuivies repose sur
+l'accusation, et tout doute devrait profiter au suspect ou à la personne poursuivie. La présomption d'innocence
+serait violée si la charge de la preuve était transférée de l'accusation à la défense, sans préjudice des éventuels
+pouvoirs d'office du juge en matière de constatation des faits, ou de l'indépendance de la justice dans l'appré­
+ciation de la culpabilité du suspect ou de la personne poursuivie, ou du recours à des présomptions de fait ou de
+droit concernant la responsabilité pénale du suspect ou de la personne poursuivie. De telles présomptions
+devraient être enserrées dans des limites raisonnables, prenant en compte la gravité de l'enjeu et préservant les
+droits de la défense, et les moyens employés devraient être raisonnablement proportionnés au but légitime
+poursuivi. Ces présomptions devraient être réfragables et, en tout état de cause, ne devraient être utilisées que si
+les droits de la défense sont respectés.
+
+(23)
+
+Dans plusieurs États membres, non seulement l'accusation mais aussi les juges et les juridictions compétentes
+sont chargés de rechercher des éléments de preuve tant à charge qu'à décharge. Les États membres qui ne
+connaissent pas un système accusatoire devraient pouvoir conserver leur système actuel, à condition qu'il respecte
+la présente directive et les autres dispositions pertinentes du droit de l'Union et du droit international.
+
+(24)
+
+Le droit de garder le silence constitue un aspect important de la présomption d'innocence et devrait servir de
+rempart contre l'auto-incrimination.
+
+(25)
+
+Le droit de ne pas s'incriminer soi-même constitue également un aspect important de la présomption
+d'innocence. Les suspects et les personnes poursuivies ne devraient pas être forcés, lorsqu'il leur est demandé de
+faire des déclarations ou de répondre à des questions, de produire des preuves ou des documents ou de fournir
+des informations pouvant conduire à leur propre incrimination.
+
+(26)
+
+Le droit de garder le silence et le droit de ne pas s'incriminer soi-même devraient s'appliquer à propos de
+questions concernant l'infraction pénale qu'une personne est soupçonnée d'avoir commise ou au titre de laquelle
+elle est poursuivie et non, par exemple, à propos de questions relatives à l'identification du suspect ou de la
+personne poursuivie.
+
+(27)
+
+Le droit de garder le silence et le droit de ne pas s'incriminer soi-même impliquent que les autorités compétentes
+ne devraient pas contraindre les suspects ou les personnes poursuivies à fournir des informations si ces personnes
+ne souhaitent pas le faire. Afin de déterminer si le droit de garder le silence ou le droit de ne pas s'incriminer soimême ont été violés, il convient de tenir compte de l'interprétation donnée par la Cour européenne des droits de
+l'homme du droit à un procès équitable en vertu de la CEDH.
+
+(28)
+
+L'exercice du droit de garder le silence ou du droit de ne pas s'incriminer soi-même ne devrait pas être retenu
+contre un suspect ou une personne poursuivie, ni être considéré en soi comme une preuve que la personne
+concernée a commis l'infraction pénale en question. Ceci devrait s'entendre sans préjudice des règles nationales
+concernant l'appréciation des preuves par les juridictions ou les juges, pour autant que les droits de la défense
+soient respectés.
+
+(29)
+
+L'exercice du droit de ne pas s'incriminer soi-même ne devrait pas empêcher les autorités compétentes de réunir
+les preuves que l'on peut obtenir légalement du suspect ou de la personne poursuivie en recourant à des pouvoirs
+de contrainte licites et qui existent indépendamment de la volonté du suspect ou de la personne poursuivie, tels
+que des documents recueillis en vertu d'un mandat, des documents pour lesquels est prévue une obligation légale
+de conservation et de production sur demande, les échantillons d'air expiré, de sang et d'urine ainsi que les tissus
+corporels en vue d'une analyse de l'ADN.
+
+(30)
+
+Le droit de garder le silence et le droit de ne pas s'incriminer soi-même ne devraient pas empêcher les États
+membres de décider que, pour des infractions mineures telles que des infractions mineures au code de la route, la
+procédure ou certaines parties de celle-ci peuvent être menées par écrit ou sans que le suspect ou la personne
+poursuivie ne soit interrogé par les autorités compétentes à propos de l'infraction concernée, pour autant que le
+droit à un procès équitable soit respecté.
+
+(31)
+
+Les États membres devraient envisager de s'assurer que les suspects ou les personnes poursuivies, lorsqu'ils
+reçoivent des informations sur leurs droits en vertu de l'article 3 de la directive 2012/13/UE, sont également
+informés du droit de ne pas s'incriminer soi-même, tel qu'il s'applique en droit national conformément à la
+présente directive.
+
+11.3.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 65/5
+
+(32)
+
+Les États membres devraient envisager de s'assurer que, lorsque les suspects ou les personnes poursuivies
+reçoivent une déclaration de droits écrite en vertu de l'article 4 de la directive 2012/13/UE, cette déclaration
+contient également des informations sur le droit de ne pas s'incriminer soi-même, tel qu'il s'applique en droit
+national conformément à la présente directive.
+
+(33)
+
+Le droit à un procès équitable constitue l'un des principes fondamentaux d'une société démocratique. Sur celui-ci
+repose le droit des suspects ou des personnes poursuivies d'assister à leur procès, qui devrait être garanti dans
+l'ensemble de l'Union.
+
+(34)
+
+Si, pour des raisons échappant à leur contrôle, les suspects ou les personnes poursuivies sont dans l'impossibilité
+d'assister à leur procès, ils devraient avoir la possibilité de demander que celui-ci ait lieu à une autre date, dans les
+délais prévus en droit national.
+
+(35)
+
+Le droit du suspect ou de la personne poursuivie d'assister à son procès ne revêt pas de caractère absolu. Sous
+certaines conditions, le suspect ou la personne poursuivie devrait pouvoir y renoncer de manière expresse ou
+tacite, mais sans équivoque.
+
+(36)
+
+Dans certaines circonstances, une décision statuant sur la culpabilité ou l'innocence du suspect ou de la personne
+poursuivie devrait pouvoir être rendue même si la personne concernée n'est pas présente au procès. Tel pourrait
+être le cas quand le suspect ou la personne poursuivie a été informé, en temps utile, de la tenue du procès et des
+conséquences d'un défaut de comparution, et ne s'est néanmoins pas présenté. Informer le suspect ou la personne
+poursuivie de la tenue du procès devrait signifier que ledit suspect ou ladite personne poursuivie est cité en
+personne ou est informé officiellement, par d'autres moyens, de la date et du lieu fixés pour le procès, de manière
+à lui permettre d'avoir connaissance du procès. Informer le suspect ou la personne poursuivie des conséquences
+d'un défaut de comparution devrait signifier, en particulier, que cette personne est informée qu'une décision
+pourrait être rendue si elle ne se présente pas au procès.
+
+(37)
+
+Un procès pouvant donner lieu à une décision statuant sur la culpabilité ou l'innocence devrait également
+pouvoir avoir lieu en l'absence du suspect ou de la personne poursuivie lorsque cette personne a été informée de
+la tenue du procès et a donné mandat à un avocat qui a été désigné par cette personne ou par l'État pour la
+représenter au procès et qui a représenté le suspect ou la personne poursuivie.
+
+(38)
+
+Lorsqu'il s'agit de déterminer si la manière dont l'information est fournie est suffisante pour garantir que
+l'intéressé a connaissance du procès, une attention particulière devrait, le cas échéant, être également accordée,
+d'une part, à la diligence dont ont fait preuve les autorités publiques pour informer la personne concernée et,
+d'autre part, à la diligence dont a fait preuve la personne concernée pour recevoir l'information qui lui est
+adressée.
+
+(39)
+
+Lorsque les États membres prévoient la possibilité que des procès se tiennent en l'absence du suspect ou de la
+personne poursuivie, mais que les conditions pour rendre une décision en l'absence d'un suspect ou d'une
+personne poursuivie déterminé ne sont pas réunies, parce que le suspect ou la personne poursuivie n'a pu être
+localisé en dépit des efforts raisonnables consentis à cet effet, par exemple parce que la personne a pris la fuite ou
+s'est évadée, il devrait néanmoins être possible de rendre une décision en l'absence du suspect ou de la personne
+poursuivie, et que cette décision soit exécutoire. Dans de tels cas, les États membres devraient veiller à ce que les
+suspects ou les personnes poursuivies, lorsqu'ils sont informés de la décision, en particulier au moment de leur
+arrestation, soient également informés de la possibilité de contester cette décision et du droit à un nouveau
+procès, ou à une autre voie de droit. Ces informations devraient être données par écrit. Elles peuvent aussi être
+données oralement, à condition que le fait que ces informations ont été données soit consigné selon la procédure
+d'enregistrement prévue en droit national.
+
+(40)
+
+Les autorités compétentes dans les États membres devraient être autorisées à exclure temporairement du procès
+un suspect ou une personne poursuivie lorsque c'est dans l'intérêt du bon déroulement de la procédure pénale.
+Tel pourrait, par exemple, être le cas lorsqu'un suspect ou une personne poursuivie trouble l'audience et doit
+quitter la salle d'audience sous escorte sur ordre du juge ou lorsqu'il apparaît que la présence d'un suspect ou
+d'une personne poursuivie empêche d'auditionner un témoin dans de bonnes conditions.
+
+(41)
+
+Le droit d'assister à son procès ne peut être exercé que si une ou plusieurs audiences ont lieu. Cela signifie que le
+droit d'assister à son procès ne peut pas s'appliquer si les règles de procédure nationales pertinentes ne prévoient
+pas d'audience. Ces règles nationales devraient respecter la charte et la CEDH, telles qu'elles sont interprétées par
+la Cour de justice et par la Cour européenne des droits de l'homme, notamment en ce qui concerne le droit à un
+procès équitable. Tel est le cas, par exemple, s'il s'agit d'une procédure simplifiée menée, uniquement ou en partie,
+à la suite d'une procédure écrite ou d'une procédure dans le cadre de laquelle aucune audience n'est prévue.
+
+L 65/6
+
+FR
+
+Journal officiel de l'Union européenne
+
+11.3.2016
+
+(42)
+
+Les États membres devraient veiller à ce qu'il soit tenu compte des besoins particuliers des personnes vulnérables
+dans la mise en œuvre de la présente directive, notamment en ce qui concerne le droit d'assister à son procès et
+le droit à un nouveau procès. Selon la recommandation de la Commission du 27 novembre 2013 relative à des
+garanties procédurales en faveur des personnes vulnérables soupçonnées ou poursuivies dans le cadre des
+procédures pénales (1), les personnes soupçonnées ou poursuivies vulnérables devraient s'entendre comme étant
+l'ensemble des personnes soupçonnées ou poursuivies qui ne sont pas aptes à comprendre ou à participer effecti­
+vement à la procédure pénale du fait de leur âge, de leur état mental ou physique ou d'un handicap.
+
+(43)
+
+Les enfants sont vulnérables et devraient bénéficier d'un niveau de protection spécifique. Par conséquent, en ce
+qui concerne certains des droits prévus dans la présente directive, des garanties procédurales spécifiques devraient
+être établies.
+
+(44)
+
+Le principe de l'effectivité du droit de l'Union impose aux États membres de mettre en place des voies de recours
+adéquates et effectives en cas de violation d'un droit conféré aux personnes par le droit de l'Union. Une voie de
+recours effective ouverte en cas de violation de l'un quelconque des droits énoncés dans la présente directive
+devrait, dans la mesure du possible, avoir pour effet de placer le suspect ou la personne poursuivie dans la
+situation qui aurait été la sienne si la violation n'avait pas eu lieu, afin de préserver le droit à un procès équitable
+et les droits de la défense.
+
+(45)
+
+Les juridictions et les juges devraient respecter les droits de la défense et l'équité de la procédure lorsqu'ils
+apprécient les déclarations faites par des suspects ou des personnes poursuivies ou les éléments de preuve
+obtenus en violation du droit de garder le silence ou du droit de ne pas s'incriminer soi-même. À cet égard, il
+convient de tenir compte de la jurisprudence de la Cour européenne des droits de l'homme, selon laquelle
+l'admission à titre de preuves pour établir les faits pertinents dans une procédure pénale de déclarations obtenues
+à la suite d'actes de torture ou d'autres mauvais traitements contraires à l'article 3 de la CEDH entacherait
+d'iniquité l'ensemble de la procédure. Aux termes de la convention des Nations unies contre la torture et autres
+peines ou traitements cruels, inhumains ou dégradants, toute déclaration dont il est établi qu'elle a été obtenue
+par la torture ne peut être invoquée comme un élément de preuve dans une procédure, si ce n'est contre la
+personne accusée de torture pour établir qu'une déclaration a été faite.
+
+(46)
+
+Afin de contrôler et d'évaluer l'effectivité de la présente directive, les États membres devraient communiquer à la
+Commission les données disponibles relatives à la mise en œuvre des droits qui y sont énoncés. Parmi ces
+données pourraient figurer celles consignées par les autorités répressives et judiciaires en ce qui concerne les
+voies de recours dont il est fait usage à la suite d'une violation de l'un quelconque des aspects de la présomption
+d'innocence régis par la présente directive ou du droit d'assister à son procès.
+
+(47)
+
+La présente directive respecte les droits fondamentaux et les principes reconnus par la charte et la CEDH, y
+compris l'interdiction de la torture et des traitements inhumains ou dégradants, le droit à la liberté et à la sûreté,
+le respect de la vie privée et familiale, le droit à l'intégrité de la personne, les droits de l'enfant, l'intégration des
+personnes handicapées, le droit à un recours effectif et le droit à un procès équitable, la présomption d'innocence
+et les droits de la défense. Il convient de tenir compte, en particulier, de l'article 6 du traité sur l'Union
+européenne, qui dispose que l'Union reconnaît les droits, les libertés et les principes énoncés dans la charte et que
+les droits fondamentaux, tels qu'ils sont garantis par la CEDH et tels qu'ils résultent des traditions constitution­
+nelles communes aux États membres, font partie du droit de l'Union en tant que principes généraux.
+
+(48)
+
+La présente directive établissant des règles minimales, les États membres devraient pouvoir étendre les droits
+définis dans celle-ci afin d'offrir un niveau plus élevé de protection. Le niveau de protection offert par les États
+membres ne devrait jamais être inférieur aux normes prévues par la charte et la CEDH, telles qu'elles sont
+interprétées par la Cour de justice et par la Cour européenne des droits de l'homme.
+
+(49)
+
+Étant donné que les objectifs de la présente directive, à savoir la définition de règles minimales communes
+régissant certains aspects de la présomption d'innocence et le droit d'assister à son procès dans le cadre des
+procédures pénales, ne peuvent pas être atteints de manière suffisante par les États membres mais peuvent, en
+raison de ses dimensions et de ses effets, l'être mieux au niveau de l'Union, celle-ci peut prendre des mesures
+conformément au principe de subsidiarité consacré à l'article 5 du traité sur l'Union européenne. Conformément
+au principe de proportionnalité tel qu'énoncé audit article, la présente directive n'excède pas ce qui est nécessaire
+pour atteindre ces objectifs.
+
+(1) JO C 378 du 24.12.2013, p. 8.
+
+11.3.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 65/7
+
+(50)
+
+Conformément aux articles 1er et 2 du protocole no 21 sur la position du Royaume-Uni et de l'Irlande à l'égard de
+l'espace de liberté, de sécurité et de justice, annexé au traité sur l'Union européenne et au traité sur le fonction­
+nement de l'Union européenne, et sans préjudice de l'article 4 dudit protocole, ces États membres ne participent
+pas à l'adoption de la présente directive et ne sont pas liés par celle-ci ni soumis à son application.
+
+(51)
+
+Conformément aux articles 1er et 2 du protocole no 22 sur la position du Danemark, annexé au traité sur l'Union
+européenne et au traité sur le fonctionnement de l'Union européenne, le Danemark ne participe pas à l'adoption
+de la présente directive et n'est pas lié par celle-ci ni soumis à son application,
+
+ONT ADOPTÉ LA PRÉSENTE DIRECTIVE:
+CHAPITRE 1
+OBJET ET CHAMP D'APPLICATION
+
+Article premier
+Objet
+La présente directive établit des règles minimales communes concernant:
+a) certains aspects de la présomption d'innocence dans le cadre des procédures pénales;
+b) le droit d'assister à son procès dans le cadre des procédures pénales.
+
+Article 2
+Champ d'application
+La présente directive s'applique aux personnes physiques qui sont des suspects ou des personnes poursuivies dans le
+cadre des procédures pénales. Elle s'applique à tous les stades de la procédure pénale, à partir du moment où une
+personne est soupçonnée d'avoir commis une infraction pénale ou une infraction pénale alléguée, ou est poursuivie à ce
+titre, jusqu'à ce que la décision finale visant à déterminer si cette personne a commis l'infraction pénale concernée soit
+devenue définitive.
+
+CHAPITRE 2
+PRÉSOMPTION D'INNOCENCE
+
+Article 3
+Présomption d'innocence
+Les États membres veillent à ce que les suspects et les personnes poursuivies soient présumés innocents jusqu'à ce que
+leur culpabilité ait été légalement établie.
+
+Article 4
+Références publiques à la culpabilité
+1.
+Les États membres prennent les mesures nécessaires pour veiller à ce que les déclarations publiques des autorités
+publiques, ainsi que les décisions judiciaires, autres que celles statuant sur la culpabilité, ne présentent pas un suspect ou
+une personne poursuivie comme étant coupable aussi longtemps que sa culpabilité n'a pas été légalement établie. Cette
+disposition s'entend sans préjudice des actes de poursuite qui visent à prouver la culpabilité du suspect ou de la
+personne poursuivie et sans préjudice des décisions préliminaires de nature procédurale qui sont prises par des autorités
+judiciaires ou par d'autres autorités compétentes et qui sont fondées sur des soupçons ou sur des éléments de preuve à
+charge.
+
+L 65/8
+
+FR
+
+Journal officiel de l'Union européenne
+
+11.3.2016
+
+2.
+Les États membres veillent à ce que des mesures appropriées soient prévues en cas de manquement à l'obligation
+fixée au paragraphe 1 du présent article de ne pas présenter les suspects ou les personnes poursuivies comme étant
+coupables, conformément à la présente directive et, notamment, à son article 10.
+3.
+L'obligation fixée au paragraphe 1 de ne pas présenter les suspects ou les personnes poursuivies comme étant
+coupables n'empêche pas les autorités publiques de diffuser publiquement des informations sur les procédures pénales
+lorsque cela est strictement nécessaire pour des raisons tenant à l'enquête pénale ou à l'intérêt public.
+
+Article 5
+Présentation des suspects et des personnes poursuivies
+1.
+Les États membres prennent les mesures appropriées pour veiller à ce que les suspects et les personnes poursuivies
+ne soient pas présentés, à l'audience ou en public, comme étant coupables par le recours à des mesures de contrainte
+physique.
+2.
+Le paragraphe 1 n'empêche pas les États membres d'appliquer les mesures de contrainte physique qui s'avèrent
+nécessaires pour des raisons liées au cas d'espèce relatives à la sécurité ou à la nécessité d'empêcher les suspects ou les
+personnes poursuivies de prendre la fuite ou d'entrer en contact avec des tiers.
+
+Article 6
+Charge de la preuve
+1.
+Les États membres veillent à ce que l'accusation supporte la charge de la preuve visant à établir la culpabilité des
+suspects et des personnes poursuivies. Cette disposition s'entend sans préjudice de toute obligation incombant au juge
+ou à la juridiction compétente de rechercher des éléments de preuve tant à charge qu'à décharge, et sans préjudice du
+droit de la défense de présenter des éléments de preuve conformément au droit national applicable.
+2.
+Les États membres veillent à ce que tout doute quant à la question de la culpabilité profite au suspect ou à la
+personne poursuivie, y compris lorsque la juridiction apprécie si la personne concernée doit être acquittée.
+
+Article 7
+Droit de garder le silence et droit de ne pas s'incriminer soi-même
+1.
+Les États membres veillent à ce que les suspects et les personnes poursuivies aient le droit de garder le silence en ce
+qui concerne l'infraction pénale qu'ils sont soupçonnés d'avoir commise ou au titre de laquelle ils sont poursuivis.
+2.
+Les États membres veillent à ce que les suspects et les personnes poursuivies aient le droit de ne pas s'incriminer
+eux-mêmes.
+3.
+L'exercice du droit de ne pas s'incriminer soi-même n'empêche pas les autorités compétentes de recueillir les
+preuves qui peuvent être obtenues légalement au moyen de pouvoirs de contrainte licites et qui existent indépen­
+damment de la volonté des suspects ou des personnes poursuivies.
+4.
+Les États membres peuvent autoriser leurs autorités judiciaires à tenir compte, lorsqu'elles rendent leur jugement,
+de l'attitude coopérative des suspects et des personnes poursuivies.
+5.
+L'exercice par les suspects et les personnes poursuivies du droit de garder le silence et du droit de ne pas
+s'incriminer soi-même ne saurait être retenu contre eux, ni considéré comme une preuve qu'ils ont commis l'infraction
+pénale concernée.
+
+11.3.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 65/9
+
+6.
+Le présent article n'empêche pas les États membres de décider que, pour des infractions mineures, la procédure ou
+certaines parties de celle-ci peuvent être menées par écrit ou sans que le suspect ou la personne poursuivie ne soit
+interrogé par les autorités compétentes à propos de l'infraction concernée, pour autant que le droit à un procès équitable
+soit respecté.
+
+CHAPITRE 3
+DROIT D'ASSISTER À SON PROCÈS
+
+Article 8
+Droit d'assister à son procès
+1.
+
+Les États membres veillent à ce que les suspects et les personnes poursuivies aient le droit d'assister à leur procès.
+
+2.
+Les États membres peuvent prévoir qu'un procès pouvant donner lieu à une décision statuant sur la culpabilité ou
+l'innocence du suspect ou de la personne poursuivie peut se tenir en son absence, pour autant que:
+a) le suspect ou la personne poursuivie ait été informé, en temps utile, de la tenue du procès et des conséquences d'un
+défaut de comparution; ou
+b) le suspect ou la personne poursuivie, ayant été informé de la tenue du procès, soit représenté par un avocat mandaté,
+qui a été désigné soit par le suspect ou la personne poursuivie, soit par l'État.
+3.
+Une décision prise conformément au paragraphe 2 peut être exécutée à l'encontre du suspect ou de la personne
+poursuivie concerné.
+4.
+Lorsque les États membres prévoient la possibilité que des procès se tiennent en l'absence du suspect ou de la
+personne poursuivie, mais qu'il n'est pas possible de respecter les conditions fixées au paragraphe 2 du présent article
+parce que le suspect ou la personne poursuivie ne peut être localisé en dépit des efforts raisonnables consentis à cet
+effet, les États membres peuvent prévoir qu'une décision peut néanmoins être prise et exécutée. Dans de tels cas, les États
+membres veillent à ce que les suspects ou les personnes poursuivies, lorsqu'ils sont informés de la décision, en
+particulier au moment de leur arrestation, soient également informés de la possibilité de contester cette décision et de
+leur droit à un nouveau procès ou à une autre voie de droit, conformément à l'article 9.
+5.
+Le présent article s'entend sans préjudice des règles nationales qui prévoient que le juge ou la juridiction
+compétente peut exclure temporairement du procès un suspect ou une personne poursuivie si nécessaire dans l'intérêt
+du bon déroulement de la procédure pénale, pour autant que les droits de la défense soient respectés.
+6.
+Le présent article s'entend sans préjudice des règles nationales qui prévoient que la procédure ou certaines parties
+de celles-ci sont menées par écrit, pour autant que le droit à un procès équitable soit respecté.
+
+Article 9
+Droit à un nouveau procès
+Les États membres veillent à ce que les suspects ou les personnes poursuivies, lorsqu'ils n'ont pas assisté à leur procès et
+que les conditions prévues à l'article 8, paragraphe 2, n'étaient pas réunies, aient droit à un nouveau procès ou à une
+autre voie de droit, permettant une nouvelle appréciation du fond de l'affaire, y compris l'examen de nouveaux éléments
+de preuve, et pouvant aboutir à une infirmation de la décision initiale. À cet égard, les États membres veillent à ce que
+lesdits suspects et personnes poursuivies aient le droit d'être présents, de participer effectivement, conformément aux
+procédures prévues par le droit national, et d'exercer les droits de la défense.
+
+L 65/10
+
+FR
+
+Journal officiel de l'Union européenne
+
+11.3.2016
+
+CHAPITRE 4
+DISPOSITIONS GÉNÉRALES ET FINALES
+
+Article 10
+Voies de recours
+1.
+Les États membres veillent à ce que les suspects et les personnes poursuivies disposent d'une voie de recours
+effective en cas de violation des droits prévus au titre de la présente directive.
+2.
+Sans préjudice des dispositifs et régimes nationaux concernant l'admissibilité des preuves, les États membres
+veillent à ce que les droits de la défense et l'équité de la procédure soient respectés lors de l'appréciation des déclarations
+faites par des suspects ou des personnes poursuivies ou des éléments de preuve obtenus en violation du droit de garder
+le silence ou du droit de ne pas s'incriminer soi-même.
+
+Article 11
+Collecte de données
+Au plus tard le 1er avril 2020 et tous les trois ans par la suite, les États membres transmettent à la Commission les
+données disponibles illustrant la manière dont les droits fixés dans la présente directive ont été mis en œuvre.
+
+Article 12
+Rapport
+Au plus tard le 1er avril 2021, la Commission présente au Parlement européen et au Conseil un rapport sur la mise en
+œuvre de la présente directive.
+
+Article 13
+Non-régression
+Aucune disposition de la présente directive ne saurait être interprétée comme limitant les droits et les garanties
+procédurales qui sont accordés en vertu de la Charte, de la CEDH ou d'autres dispositions pertinentes du droit interna­
+tional ou du droit de tout État membre qui offrent un niveau de protection plus élevé, ni comme dérogeant auxdits
+droits et garanties procédurales.
+
+Article 14
+Transposition
+1.
+Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires
+pour se conformer à la présente directive au plus tard le 1er avril 2018. Ils en informent immédiatement la Commission.
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont
+accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par
+les États membres.
+2.
+Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils
+adoptent dans le domaine régi par la présente directive.
+
+11.3.2016
+
+Journal officiel de l'Union européenne
+
+FR
+
+L 65/11
+
+Article 15
+Entrée en vigueur
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union
+européenne.
+Article 16
+Destinataires
+Les États membres sont destinataires de la présente directive conformément aux traités.
+
+Fait à Strasbourg, le 9 mars 2016.
+Par le Parlement européen
+
+Par le Conseil
+
+Le président
+
+Le président
+
+M. SCHULZ
+
+J.A. HENNIS-PLASSCHAERT
+
+

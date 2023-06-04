@@ -1,0 +1,590 @@
+4.11.2016
+
+Journal officiel de l'Union européenne
+
+FR
+
+L 297/1
+
+I
+(Actes législatifs)
+
+DIRECTIVES
+DIRECTIVE (UE) 2016/1919 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 26 octobre 2016
+concernant l'aide juridictionnelle pour les suspects et les personnes poursuivies dans le cadre des
+procédures pénales et pour les personnes dont la remise est demandée dans le cadre des
+procédures relatives au mandat d'arrêt européen
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L'UNION EUROPÉENNE,
+
+vu le traité sur le fonctionnement de l'Union européenne, et notamment son article 82, paragraphe 2, point b),
+vu la proposition de la Commission européenne,
+après transmission du projet d'acte législatif aux parlements nationaux,
+vu l'avis du Comité économique et social européen (1),
+après consultation du Comité des régions,
+statuant conformément à la procédure législative ordinaire (2),
+considérant ce qui suit:
+(1)
+
+La présente directive a pour objet de garantir l'effectivité du droit d'accès à un avocat prévu par la directive
+2013/48/UE du Parlement européen et du Conseil (3), en permettant aux suspects et aux personnes poursuivies
+dans le cadre des procédures pénales, ainsi qu'aux personnes dont la remise est demandée qui font l'objet d'une
+procédure relative au mandat d'arrêt européen en vertu de la décision-cadre 2002/584/JAI du Conseil (4) (ci-après
+dénommées «personnes dont la remise est demandée»), de bénéficier de l'assistance d'un avocat rémunéré par les
+États membres.
+
+(2)
+
+En établissant des règles minimales communes concernant le droit à l'aide juridictionnelle pour les suspects, les
+personnes poursuivies et les personnes dont la remise est demandée, la présente directive vise à renforcer la
+confiance des États membres dans le système de justice pénale des autres États membres et, par conséquent, à
+faciliter la reconnaissance mutuelle des décisions en matière pénale.
+
+(3)
+
+L'article 47, troisième alinéa, de la charte des droits fondamentaux de l'Union européenne (ci-après dénommée
+«charte»), l'article 6, paragraphe 3, point c), de la convention de sauvegarde des droits de l'homme et des libertés
+fondamentales (CEDH) et l'article 14, paragraphe 3, point d), du pacte international relatif aux droits civils et
+politiques (PIDCP) consacrent le droit à l'aide juridictionnelle dans le cadre des procédures pénales conformément
+aux conditions fixées dans ces dispositions. La charte a la même valeur juridique que les traités et les États
+membres sont parties à la CEDH et au PIDCP. Toutefois, l'expérience a montré que cette adhésion ne permettait
+pas toujours en elle-même d'assurer un degré de confiance suffisant dans les systèmes de justice pénale des autres
+États membres.
+
+(1) JO C 226 du 16.7.2014, p. 63.
+(2) Position du Parlement européen du 4 octobre 2016 (non encore parue au Journal officiel) et décision du Conseil du 13 octobre 2016.
+(3) Directive 2013/48/UE du Parlement européen et du Conseil du 22 octobre 2013 relative au droit d'accès à un avocat dans le cadre des
+procédures pénales et des procédures relatives au mandat d'arrêt européen, au droit d'informer un tiers dès la privation de liberté et au
+droit des personnes privées de liberté de communiquer avec des tiers et avec les autorités consulaires (JO L 294 du 6.11.2013, p. 1).
+(4) Décision-cadre 2002/584/JAI du Conseil du 13 juin 2002 relative au mandat d'arrêt européen et aux procédures de remise entre États
+membres (JO L 190 du 18.7.2002, p. 1).
+
+L 297/2
+
+FR
+
+Journal officiel de l'Union européenne
+
+4.11.2016
+
+(4)
+
+Le 30 novembre 2009, le Conseil a adopté une résolution relative à la feuille de route visant à renforcer les droits
+procéduraux des suspects ou des personnes poursuivies dans le cadre des procédures pénales (1) (ci-après
+dénommée «feuille de route»). Dans le cadre d'une approche progressive, la feuille de route demande l'adoption de
+mesures relatives au droit à la traduction et à l'interprétation (mesure A), au droit à l'information concernant les
+droits et l'accusation (mesure B), au droit à l'assistance d'un conseiller juridique et à une aide juridictionnelle
+(mesure C), au droit à la communication avec les proches, les employeurs et les autorités consulaires (mesure D)
+et à des garanties particulières pour les suspects ou les personnes poursuivies qui sont vulnérables (mesure E).
+
+(5)
+
+Le 11 décembre 2009, le Conseil européen a salué la feuille de route, qu'il a intégrée dans «Le programme de
+Stockholm — Une Europe ouverte et sûre qui sert et protège les citoyens» (2) (point 2.4). Le Conseil européen
+a souligné le caractère non exhaustif de la feuille de route, en invitant la Commission à examiner d'autres
+éléments des droits procéduraux minimaux pour les suspects et les personnes poursuivies et à déterminer si
+d'autres questions, telles que la présomption d'innocence, nécessitent d'être abordées, afin de promouvoir une
+meilleure coopération dans ce domaine.
+
+(6)
+
+À ce jour, cinq mesures relatives aux droits procéduraux dans les procédures pénales ont été adoptées en
+application de la feuille de route, à savoir les directives du Parlement européen et du Conseil 2010/64/UE (3),
+2012/13/UE (4), 2013/48/UE, (UE) 2016/343 (5) et (UE) 2016/800 (6).
+
+(7)
+
+La présente directive porte sur la deuxième partie de la mesure C de la feuille de route, qui concerne l'aide juridic­
+tionnelle.
+
+(8)
+
+L'aide juridictionnelle devrait couvrir les coûts de la défense des suspects, des personnes poursuivies et des
+personnes dont la remise est demandée. Lorsqu'elles octroient l'aide juridictionnelle, les autorités compétentes des
+États membres devraient avoir la possibilité d'exiger que les suspects, les personnes poursuivies ou les personnes
+dont la remise est demandée supportent elles-mêmes une partie de ces coûts, en fonction de leurs ressources
+financières.
+
+(9)
+
+Sans préjudice de l'article 6 de la directive (UE) 2016/800, la présente directive ne devrait pas s'appliquer lorsque
+les suspects, les personnes poursuivies ou les personnes dont la remise est demandée ont renoncé à leur droit
+d'accès à un avocat conformément à l'article 9 ou à l'article 10, paragraphe 3, respectivement, de la directive
+2013/48/UE, et n'ont pas révoqué cette renonciation, ou lorsque les États membres ont appliqué les dérogations
+temporaires prévues à l'article 3, paragraphe 5 ou 6, de la directive 2013/48/UE, et ce pendant la durée de ces
+dérogations.
+
+(10)
+
+Lorsqu'une personne qui n'était pas initialement un suspect ou une personne poursuivie, telle qu'un témoin,
+devient un suspect ou une personne poursuivie, elle devrait bénéficier du droit de ne pas s'incriminer soi-même
+et du droit de garder le silence, conformément au droit de l'Union et à la CEDH, tels qu'ils sont interprétés par la
+Cour de justice de l'Union européenne (ci-après dénommée «Cour de justice») et par la Cour européenne des
+droits de l'homme. La présente directive fait ainsi expressément référence à la situation concrète où une personne
+devient un suspect ou une personne poursuivie durant un interrogatoire mené par la police ou par une autre
+autorité chargée de l'application de la loi dans le cadre d'une procédure pénale. Lorsque, au cours d'un tel interro­
+gatoire, une personne autre qu'un suspect ou une personne poursuivie devient un suspect ou une personne
+poursuivie, l'interrogatoire devrait être suspendu immédiatement. Toutefois, il devrait être possible de poursuivre
+l'interrogatoire si la personne concernée a été informée qu'elle est devenue un suspect ou une personne
+poursuivie et si elle est en mesure d'exercer pleinement les droits prévus dans la présente directive.
+
+(11)
+
+Dans certains États membres, une autorité autre qu'une juridiction compétente en matière pénale est compétente
+pour sanctionner des infractions relativement mineures autrement que par la privation de liberté. Il peut s'agir,
+par exemple, d'infractions routières courantes qui peuvent être établies à la suite d'un contrôle routier. Dans de
+telles situations, il serait excessif d'exiger des autorités compétentes qu'elles garantissent l'ensemble des droits
+prévus au titre de la présente directive. Lorsque le droit d'un État membre prévoit, pour des infractions mineures,
+l'imposition d'une sanction par une telle autorité et qu'il existe soit un droit de recours, soit la possibilité de
+renvoyer l'affaire devant une juridiction compétente en matière pénale, la présente directive ne devrait alors
+s'appliquer qu'à la procédure de recours ou de renvoi devant cette juridiction.
+
+(1) JO C 295 du 4.12.2009, p. 1.
+(2) JO C 115 du 4.5.2010, p. 1.
+(3) Directive 2010/64/UE du Parlement européen et du Conseil du 20 octobre 2010 relative au droit à l'interprétation et à la traduction dans
+le cadre des procédures pénales (JO L 280 du 26.10.2010, p. 1).
+(4) Directive 2012/13/UE du Parlement européen et du Conseil du 22 mai 2012 relative au droit à l'information dans le cadre des
+procédures pénales (JO L 142 du 1.6.2012, p. 1).
+(5) Directive (UE) 2016/343 du Parlement européen et du Conseil du 9 mars 2016 portant renforcement de certains aspects de la
+présomption d'innocence et du droit d'assister à son procès dans le cadre des procédures pénales (JO L 65 du 11.3.2016, p. 1).
+(6) Directive (UE) 2016/800 du Parlement européen et du Conseil du 11 mai 2016 relative à la mise en place de garanties procédurales en
+faveur des enfants qui sont des suspects ou des personnes poursuivies dans le cadre des procédures pénales (JO L 132 du 21.5.2016,
+p. 1).
+
+4.11.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 297/3
+
+(12)
+
+Dans certains États membres, certaines infractions mineures, en particulier des infractions routières mineures, des
+infractions mineures aux règlements municipaux généraux et des infractions mineures à l'ordre public, sont
+considérées comme des infractions pénales. Dans de telles situations, il serait excessif d'exiger des autorités
+compétentes qu'elles garantissent l'ensemble des droits prévus au titre de la présente directive. Lorsque le droit
+d'un État membre prévoit, pour des infractions mineures, que la privation de liberté ne peut être imposée comme
+sanction, la présente directive ne devrait alors s'appliquer qu'aux procédures devant une juridiction compétente en
+matière pénale.
+
+(13)
+
+L'application de la présente directive à des infractions mineures est soumise aux conditions énoncées dans la
+présente directive. Les États membres devraient pouvoir appliquer un critère de ressources ou un critère de bienfondé, ou les deux, pour déterminer si l'aide juridictionnelle doit être accordée. Pour autant que le droit à un
+procès équitable soit respecté, le critère du bien-fondé peut être réputé ne pas être rempli en ce qui concerne
+certaines infractions mineures.
+
+(14)
+
+Le champ d'application de la présente directive pour ce qui est de certaines infractions mineures ne devrait pas
+affecter les obligations des États membres au titre de la CEDH concernant la garantie du droit à un procès
+équitable, y compris le droit de bénéficier de l'assistance d'un avocat.
+
+(15)
+
+Pour autant que le droit à un procès équitable soit respecté, les situations suivantes ne constituent pas une
+privation de liberté au sens de la présente directive: identifier le suspect ou la personne poursuivie; établir s'il y
+a lieu d'ouvrir une enquête; vérifier si la personne concernée détient des armes ou vérifier d'autres questions de
+sécurité similaires; prendre des mesures d'enquête ou de collecte de preuves autres que celles expressément visées
+dans la présente directive, telles qu'une fouille corporelle, un examen médical, un prélèvement de sang, un test
+d'alcoolémie ou autre test similaire, la prise de photographies ou le prélèvement des empreintes digitales; faire
+comparaître le suspect ou la personne poursuivie devant une autorité compétente conformément au droit
+national.
+
+(16)
+
+La présente directive fixe des règles minimales. Les États membres devraient avoir la possibilité d'accorder l'aide
+juridictionnelle dans des situations qui ne sont pas couvertes par la présente directive, par exemple lors de
+l'exécution de mesures d'enquête ou de collecte de preuves autres que celles spécifiquement visées par la présente
+directive.
+
+(17)
+
+Conformément à l'article 6, paragraphe 3, point c), de la CEDH, les suspects et les personnes poursuivies qui ne
+disposent pas de ressources suffisantes pour obtenir l'assistance d'un avocat doivent avoir droit à l'aide juridic­
+tionnelle lorsque les intérêts de la justice l'exigent. En vertu de cette règle minimale, les États membres peuvent
+appliquer un critère de ressources ou un critère de bien-fondé, ou les deux. L'application de ces critères ne saurait
+limiter les droits et les garanties procédurales qui sont accordés en vertu de la charte et de la CEDH, tels qu'ils
+sont interprétés par la Cour de justice et la Cour européenne des droits de l'homme, ou y déroger.
+
+(18)
+
+Les États membres devraient arrêter les modalités pratiques concernant l'octroi de l'aide juridictionnelle. Ces
+modalités pourraient établir que l'aide juridictionnelle est octroyée à la demande du suspect, de la personne
+poursuivie ou de la personne dont la remise est demandée. Étant donné, en particulier, les besoins des personnes
+vulnérables, une telle demande ne devrait toutefois pas constituer une condition de fond pour l'octroi de l'aide
+juridictionnelle.
+
+(19)
+
+Les autorités compétentes devraient octroyer l'aide juridictionnelle sans retard indu, et au plus tard avant l'interro­
+gatoire de la personne concernée par la police ou par une autre autorité chargée de l'application de la loi, ou
+avant l'exécution des mesures spécifiques d'enquête ou de collecte de preuves visées dans la présente directive. Si
+les autorités compétentes ne sont pas en mesure de le faire, elles devraient au moins octroyer une aide juridic­
+tionnelle d'urgence ou provisoire avant un tel interrogatoire ou avant l'exécution de telles mesures spécifiques
+d'enquête ou de collecte de preuves.
+
+(20)
+
+Étant donné la spécificité des procédures relatives au mandat d'arrêt européen, l'interprétation des dispositions de
+la présente directive concernant uniquement les personnes dont la remise est demandée devrait tenir compte de
+cette spécificité et ne devrait en aucune manière porter préjudice à l'interprétation des autres dispositions de la
+présente directive.
+
+(21)
+
+Les personnes dont la remise est demandée devraient avoir droit à l'aide juridictionnelle dans l'État membre
+d'exécution. En outre, les personnes dont la remise est demandée, qui font l'objet d'une procédure relative au
+mandat d'arrêt européen pour l'exercice de poursuites pénales et qui exercent leur droit de désigner un avocat
+dans l'État membre d'émission conformément à la directive 2013/48/UE, devraient avoir droit à l'aide juridic­
+tionnelle dans cet État membre aux fins d'une telle procédure dans l'État membre d'exécution, dans la mesure où
+l'aide juridictionnelle est nécessaire pour assurer l'effectivité de l'accès à la justice comme le prévoit l'article 47 de
+la charte. Cela serait le cas lorsque l'avocat dans l'État membre d'exécution ne peut remplir ses missions relatives à
+l'exécution d'un mandat d'arrêt européen de manière effective et efficace sans l'aide d'un avocat dans l'État
+membre d'émission. Toute décision concernant l'octroi de l'aide juridictionnelle dans l'État membre d'émission
+devrait être prise par une autorité compétente pour prendre ces décisions dans ledit État membre, sur la base de
+critères définis par celui-ci lors de la mise en œuvre de la présente directive.
+
+L 297/4
+
+FR
+
+Journal officiel de l'Union européenne
+
+4.11.2016
+
+(22)
+
+Pour garantir aux personnes dont la remise est demandée un accès effectif à un avocat, les États membres
+devraient veiller à ce que les personnes dont la remise est demandée aient droit à l'aide juridictionnelle jusqu'à
+leur remise, ou jusqu'à ce que la décision de ne pas procéder à leur remise soit devenue définitive.
+
+(23)
+
+Lors de la mise en œuvre de la présente directive, les États membres devraient garantir le respect du droit
+fondamental à l'aide juridictionnelle tel qu'il est prévu par la charte et par la CEDH. Ce faisant, ils devraient
+respecter les principes et les lignes directrices des Nations unies sur l'accès à l'assistance juridique dans le système
+de justice pénale.
+
+(24)
+
+Sans préjudice des dispositions du droit national concernant la présence obligatoire d'un avocat, une autorité
+compétente devrait prendre la décision d'octroyer ou non l'aide juridictionnelle sans retard indu. L'autorité
+compétente devrait être une autorité indépendante compétente pour prendre des décisions en ce qui concerne
+l'octroi de l'aide juridictionnelle, ou une juridiction, y compris une juridiction à juge unique. Dans des situations
+urgentes, la participation temporaire de la police et du ministère public devrait toutefois être également possible,
+dans la mesure où cette participation est nécessaire pour octroyer l'aide juridictionnelle en temps utile.
+
+(25)
+
+Lorsque l'aide juridictionnelle est octroyée à un suspect, à une personne poursuivie ou à une personne dont la
+remise est demandée, une façon de s'assurer de l'effectivité et de la qualité de cette aide est de favoriser la
+continuité de la représentation par un avocat de cette personne. À cet égard, les États membres devraient
+favoriser la continuité de la représentation par un avocat tout au long des procédures pénales ainsi que des
+procédures relatives au mandat d'arrêt européen.
+
+(26)
+
+Une formation adéquate devrait être dispensée au personnel participant à la prise de décisions en matière d'aide
+juridictionnelle dans le cadre des procédures pénales et des procédures relatives au mandat d'arrêt européen. Sans
+préjudice de l'indépendance de la justice et de la diversité dans l'organisation de l'ordre judiciaire dans les États
+membres, ceux-ci devraient demander à ce que les personnes chargées de la formation des juges dispensent cette
+formation aux juridictions et aux juges qui prennent des décisions quant à l'octroi de l'aide juridictionnelle.
+
+(27)
+
+Le principe de l'effectivité du droit de l'Union impose aux États membres de mettre en place des voies de recours
+adéquates et effectives en cas de violation d'un droit conféré aux personnes par le droit de l'Union. Une voie de
+recours effective devrait être disponible lorsque le droit à l'aide juridictionnelle a été compromis ou l'octroi de
+l'aide juridictionnelle a été retardé ou refusé, en tout ou partie.
+
+(28)
+
+Afin de contrôler et d'évaluer l'effectivité de la présente directive, il convient de recueillir, parmi les données
+disponibles, celles qui sont pertinentes pour la mise en œuvre des droits qui sont énoncés par la présente
+directive. Parmi ces données figurent, dans la mesure du possible, le nombre de demandes d'aide juridictionnelle
+présentées dans le cadre de procédures pénales, ainsi que dans le cadre de procédures relatives au mandat d'arrêt
+européen où l'État membre concerné agit en tant qu'État membre d'émission ou État membre d'exécution, le
+nombre de cas dans lesquels l'aide juridictionnelle a été accordée et le nombre de cas dans lesquels une demande
+d'aide juridictionnelle a été refusée. Il convient également, dans la mesure du possible, de recueillir des données
+sur le coût de l'octroi de l'aide juridictionnelle aux suspects, aux personnes poursuivies et aux personnes dont la
+remise est demandée.
+
+(29)
+
+La présente directive devrait s'appliquer aux suspects, aux personnes poursuivies et aux personnes dont la remise
+est demandée quels que soient leur statut juridique, leur citoyenneté ou leur nationalité. Les États membres
+devraient respecter et garantir les droits définis dans la présente directive, sans aucune discrimination fondée
+notamment sur la race, la couleur, le sexe, l'orientation sexuelle, la langue, la religion, les opinions politiques ou
+toute autre opinion, la nationalité, les origines ethniques ou sociales, la fortune, le handicap ou la naissance. La
+présente directive respecte les droits fondamentaux et les principes reconnus par la charte et la CEDH, y compris
+l'interdiction de la torture et des peines ou traitements inhumains ou dégradants, le droit à la liberté et à la sûreté,
+le respect de la vie privée et familiale, le droit à l'intégrité de la personne, les droits de l'enfant, l'intégration des
+personnes handicapées, le droit à un recours effectif en justice et à un procès équitable, la présomption
+d'innocence et les droits de la défense. La présente directive devrait être mise en œuvre dans le respect de ces
+droits et principes.
+
+(30)
+
+La présente directive établit des règles minimales. Les États membres devraient pouvoir étendre les droits définis
+dans la présente directive afin d'offrir un niveau de protection plus élevé. Ce niveau de protection plus élevé ne
+devrait pas constituer un obstacle à la reconnaissance mutuelle des décisions judiciaires que ces règles minimales
+visent à faciliter. Le niveau de protection offert par les États membres ne devrait jamais être inférieur aux normes
+prévues par la charte ou la CEDH, telles qu'elles sont interprétées par la Cour de justice et par la Cour
+européenne des droits de l'homme.
+
+(31)
+
+Étant donné que l'objectif de la présente directive, à savoir la définition de règles communes minimales
+concernant le droit à l'aide juridictionnelle pour les suspects, les personnes poursuivies et les personnes dont la
+remise est demandée ne peut pas être atteint de manière suffisante par les États membres mais peut, en raison de
+ses dimensions et de ses effets, l'être mieux au niveau de l'Union, celle-ci peut prendre des mesures
+conformément au principe de subsidiarité consacré à l'article 5 du traité sur l'Union européenne. Conformément
+au principe de proportionnalité tel qu'énoncé audit article, la présente directive n'excède pas ce qui est nécessaire
+pour atteindre cet objectif.
+
+4.11.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 297/5
+
+(32)
+
+Conformément aux articles 1er et 2 du protocole no 21 sur la position du Royaume-Uni et de l'Irlande à l'égard de
+l'espace de liberté, de sécurité et de justice, annexé au traité sur l'Union européenne et au traité sur le fonction­
+nement de l'Union européenne, et sans préjudice de l'article 4 dudit protocole, ces États membres ne participent
+pas à l'adoption de la présente directive et ne sont donc pas liés par celle-ci ni soumis à son application.
+
+(33)
+
+Conformément aux articles 1er et 2 du protocole no 22 sur la position du Danemark, annexé au traité sur l'Union
+européenne et au traité sur le fonctionnement de l'Union européenne, le Danemark ne participe pas à l'adoption
+de la présente directive et n'est pas lié par celle-ci ni soumis à son application,
+
+ONT ADOPTÉ LA PRÉSENTE DIRECTIVE:
+
+Article premier
+Objet
+1.
+
+La présente directive établit des règles minimales communes concernant le droit à l'aide juridictionnelle pour:
+
+a) les suspects et les personnes poursuivies dans le cadre des procédures pénales; et
+b) les personnes qui font l'objet d'une procédure relative au mandat d'arrêt européen en vertu de la décision-cadre
+2002/584/JAI (ci-après dénommées «personnes dont la remise est demandée»).
+2.
+La présente directive complète les directives 2013/48/UE et (UE) 2016/800. Aucune disposition de la présente
+directive ne peut être interprétée comme limitant les droits prévus dans lesdites directives.
+
+Article 2
+Champ d'application
+1.
+La présente directive s'applique aux suspects et aux personnes poursuivies dans le cadre des procédures pénales qui
+bénéficient du droit d'accès à un avocat en vertu de la directive 2013/48/UE et qui sont:
+a) privés de liberté;
+b) tenus d'être assistés par un avocat conformément au droit de l'Union ou au droit national; ou
+c) tenus d'assister à une mesure d'enquête ou de collecte de preuves ou autorisés à y assister, dont, au minimum, les
+mesures suivantes:
+i)
+
+les séances d'identification des suspects;
+
+ii) les confrontations;
+iii) les reconstitutions de la scène d'un crime.
+2.
+La présente directive s'applique également aux personnes dont la remise est demandée qui bénéficient du droit
+d'accès à un avocat en vertu de la directive 2013/48/UE, dès leur arrestation dans l'État membre d'exécution.
+3.
+La présente directive s'applique également, dans les mêmes conditions que celles prévues au paragraphe 1, aux
+personnes qui n'étaient pas initialement des suspects ou des personnes poursuivies mais qui deviennent des suspects ou
+des personnes poursuivies au cours de leur interrogatoire par la police ou par une autre autorité chargée de l'application
+de la loi.
+4.
+
+Sans préjudice du droit à un procès équitable, en ce qui concerne les infractions mineures:
+
+a) lorsque le droit d'un État membre prévoit l'imposition d'une sanction par une autorité autre qu'une juridiction
+compétente en matière pénale, et que l'imposition de cette sanction peut faire l'objet d'un recours ou d'un renvoi
+devant une telle juridiction; ou
+b) lorsque la privation de liberté ne peut pas être imposée comme une sanction,
+la présente directive ne s'applique qu'aux procédures devant une juridiction compétente en matière pénale.
+En tout état de cause, la présente directive s'applique lorsqu'une décision en matière de détention est prise, ainsi que
+pendant la détention, à tout moment de la procédure jusqu'à la clôture de celle-ci.
+
+L 297/6
+
+FR
+
+Journal officiel de l'Union européenne
+
+4.11.2016
+
+Article 3
+Définition
+Aux fins de la présente directive, on entend par «aide juridictionnelle» le financement, par un État membre, de
+l'assistance d'un avocat, permettant l'exercice effectif du droit d'accès à un avocat.
+
+Article 4
+Aide juridictionnelle dans le cadre des procédures pénales
+1.
+Les États membres veillent à ce que les suspects et les personnes poursuivies qui ne disposent pas de ressources
+suffisantes pour obtenir l'assistance d'un avocat aient droit à l'aide juridictionnelle lorsque les intérêts de la justice
+l'exigent.
+2.
+Les États membres peuvent appliquer un critère de ressources ou un critère de bien-fondé, ou les deux, pour
+déterminer si l'aide juridictionnelle doit être accordée en vertu du paragraphe 1.
+3.
+Lorsqu'un État membre applique un critère de ressources, il prend en compte tous les facteurs pertinents et
+objectifs, tels que les revenus, le capital et la situation familiale de la personne concernée, ainsi que les coûts liés à
+l'assistance d'un avocat et le niveau de vie dans ledit État membre, afin de déterminer si, conformément aux critères
+applicables dans ledit État membre, le suspect ou la personne poursuivie n'a pas les ressources suffisantes pour obtenir
+l'assistance d'un avocat.
+4.
+Lorsqu'un État membre applique un critère de bien-fondé, il prend en compte la gravité de l'infraction pénale, la
+complexité de l'affaire et la sévérité de la sanction en jeu, afin de déterminer si les intérêts de la justice exigent que l'aide
+juridictionnelle soit octroyée. En tout état de cause, le critère du bien-fondé est réputé être rempli dans les situations
+suivantes:
+a) lorsque le suspect ou la personne poursuivie comparaît devant une juridiction compétente ou un juge compétent qui
+doit statuer sur la détention à tout stade de la procédure dans le cadre du champ d'application de la présente
+directive; et
+b) au cours de la détention.
+5.
+Les États membres veillent à ce que l'aide juridictionnelle soit accordée sans retard indu, et au plus tard avant
+l'interrogatoire mené par la police ou par une autre autorité chargée de l'application de la loi, ou avant l'exécution des
+mesures d'enquête ou de collecte de preuves visées à l'article 2, paragraphe 1, point c).
+6.
+L'aide juridictionnelle n'est accordée qu'aux fins de la procédure pénale dans le cadre de laquelle la personne
+concernée est soupçonnée d'avoir commis une infraction pénale ou est poursuivie à ce titre.
+
+Article 5
+Aide juridictionnelle dans le cadre des procédures relatives au mandat d'arrêt européen
+1.
+L'État membre d'exécution s'assure que les personnes dont la remise est demandée ont droit à l'aide juridictionnelle
+dès leur arrestation en vertu d'un mandat d'arrêt européen et jusqu'à leur remise ou jusqu'à ce que la décision de ne pas
+procéder à leur remise soit devenue définitive.
+2.
+L'État membre d'émission veille à ce que les personnes dont la remise est demandée qui font l'objet d'une
+procédure relative au mandat d'arrêt européen pour l'exercice de poursuites pénales et qui exercent leur droit de désigner
+un avocat dans l'État membre d'émission, chargé d'assister l'avocat désigné dans l'État membre d'exécution,
+conformément à l'article 10, paragraphes 4 et 5, de la directive 2013/48/UE, aient droit à l'aide juridictionnelle dans
+l'État membre d'émission aux fins d'une telle procédure dans l'État membre d'exécution, dans la mesure où l'aide juridic­
+tionnelle est nécessaire pour assurer l'effectivité de l'accès à la justice.
+3.
+Le droit à l'aide juridictionnelle visé aux paragraphes 1 et 2 peut être subordonné à l'application d'un critère de
+ressources conformément à l'article 4, paragraphe 3, lequel s'applique mutatis mutandis.
+
+4.11.2016
+
+FR
+
+Journal officiel de l'Union européenne
+
+L 297/7
+
+Article 6
+Décisions sur l'octroi de l'aide juridictionnelle
+1.
+Les décisions sur l'octroi ou non de l'aide juridictionnelle et sur la désignation des avocats sont prises, sans retard
+indu, par une autorité compétente. Les États membres prennent les mesures appropriées pour que l'autorité compétente
+prenne ses décisions avec diligence et dans le respect des droits de la défense.
+2.
+Les États membres prennent les mesures nécessaires pour que les suspects, les personnes poursuivies et les
+personnes dont la remise est demandée soient informés par écrit si leur demande d'aide juridictionnelle est refusée en
+tout ou partie.
+
+Article 7
+Qualité des services au titre de l'aide juridictionnelle et de la formation
+1.
+
+Les États membres prennent les mesures nécessaires, y compris en matière de financement, afin de s'assurer:
+
+a) qu'un système d'aide juridictionnelle effectif est en place et qu'il est d'une qualité adéquate; et
+b) que les services au titre de l'aide juridictionnelle sont d'une qualité adéquate pour préserver l'équité des procédures,
+dans le strict respect de l'indépendance de la profession juridique.
+2.
+Les États membres veillent à ce qu'une formation adéquate soit dispensée au personnel participant à la prise de
+décisions en matière d'aide juridictionnelle dans le cadre des procédures pénales et des procédures relatives au mandat
+d'arrêt européen.
+3.
+Dans le strict respect de l'indépendance de la profession juridique et du rôle des personnes responsables de la
+formation des avocats, les États membres prennent les mesures appropriées pour encourager l'organisation d'une
+formation adéquate dispensée aux avocats qui fournissent des services au titre de l'aide juridictionnelle.
+4.
+Les États membres prennent les mesures nécessaires pour que les suspects, les personnes poursuivies et les
+personnes dont la remise est demandée aient droit, à leur demande, au remplacement de l'avocat fournissant des services
+au titre de l'aide juridictionnelle qui leur a été assigné, lorsque les circonstances particulières le justifient.
+
+Article 8
+Voies de recours
+Les États membres veillent à ce que les suspects, les personnes poursuivies et les personnes dont la remise est demandée
+disposent d'une voie de recours effective conformément au droit national en cas de violation des droits prévus au titre
+de la présente directive.
+
+Article 9
+Personnes vulnérables
+Les États membres veillent à ce que, lors de la mise en œuvre de la présente directive, soient pris en compte les besoins
+spécifiques des personnes vulnérables qui sont soupçonnées, poursuivies ou dont la remise est demandée.
+
+Article 10
+Communication de données et rapport
+1.
+Au plus tard le 25 mai 2021, et tous les trois ans par la suite, les États membres communiquent à la Commission
+les données disponibles illustrant les modalités de mise en œuvre des droits accordés par la présente directive.
+2.
+Au plus tard le 25 mai 2022, et tous les trois ans par la suite, la Commission soumet un rapport au Parlement
+européen et au Conseil sur la mise en œuvre de la présente directive. Dans ce rapport, la Commission évalue la mise en
+œuvre de la présente directive en ce qui concerne le droit à l'aide juridictionnelle dans le cadre des procédures pénales et
+des procédures relatives au mandat d'arrêt européen.
+
+L 297/8
+
+Journal officiel de l'Union européenne
+
+FR
+
+4.11.2016
+
+Article 11
+Non-régression
+Aucune disposition de la présente directive ne saurait être interprétée comme limitant les droits et les garanties
+procédurales conférés par la charte, la CEDH ou d'autres dispositions pertinentes du droit international ou du droit de
+tout État membre qui offrent un niveau de protection plus élevé, ni comme dérogeant à ces droits et à ces garanties
+procédurales.
+Article 12
+Transposition
+1.
+Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires
+pour se conformer à la présente directive au plus tard le 25 mai 2019. Ils en informent immédiatement la Commission.
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont
+accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par
+les États membres.
+2.
+Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans
+le domaine régi par la présente directive.
+Article 13
+Entrée en vigueur
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union
+européenne.
+Article 14
+Destinataires
+Les États membres sont destinataires de la présente directive conformément aux traités.
+
+Fait à Strasbourg, le 26 octobre 2016.
+Par le Parlement européen
+
+Par le Conseil
+
+Le président
+
+Le président
+
+M. SCHULZ
+
+I. LESAY
+
+
